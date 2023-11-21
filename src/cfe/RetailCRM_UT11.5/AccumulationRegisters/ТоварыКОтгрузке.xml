@@ -1,0 +1,178 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<AccumulationRegister uuid="d781b912-3ab4-4074-8dbb-9be4993ab447">
+		<InternalInfo>
+			<xr:GeneratedType name="AccumulationRegisterRecord.ТоварыКОтгрузке" category="Record">
+				<xr:TypeId>b48e9411-51bc-491b-b5ec-517aeb2ea317</xr:TypeId>
+				<xr:ValueId>89b9f28d-20da-4fcb-9aa7-f08b6b860f77</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterManager.ТоварыКОтгрузке" category="Manager">
+				<xr:TypeId>2c42cb21-091e-4960-9184-eab77a017134</xr:TypeId>
+				<xr:ValueId>e0eea8df-0de5-4ccd-ad08-02166b4452a1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterSelection.ТоварыКОтгрузке" category="Selection">
+				<xr:TypeId>6b22e47e-9046-4df7-8b23-a24ebcaf7f47</xr:TypeId>
+				<xr:ValueId>4cf64b0f-18eb-48f7-8b55-d84064de7e64</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterList.ТоварыКОтгрузке" category="List">
+				<xr:TypeId>518cee52-1126-43b5-9974-71ff293d74b5</xr:TypeId>
+				<xr:ValueId>34c4ea9e-7c25-48ea-9c60-aa084613837e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordSet.ТоварыКОтгрузке" category="RecordSet">
+				<xr:TypeId>152fb05a-0581-4e45-ae6d-d74ded3f2211</xr:TypeId>
+				<xr:ValueId>947e3b43-a7fa-49f4-85bd-a16c69ab3112</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="AccumulationRegisterRecordKey.ТоварыКОтгрузке" category="RecordKey">
+				<xr:TypeId>88f7d171-108a-473e-bc16-2fd9bc6f9efc</xr:TypeId>
+				<xr:ValueId>247a3c0e-84b2-4fff-ad6b-877041d65bd2</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ТоварыКОтгрузке</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>062899bb-89c1-427e-b3ce-07ca8ee75d60</ExtendedConfigurationObject>
+			<RegisterType>Balance</RegisterType>
+		</Properties>
+		<ChildObjects>
+			<Resource uuid="dff09246-bdca-497a-b910-1244f1f61692">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ВРезерве</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>cabaf65c-7d26-48e9-b4e0-44b00e016320</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>3</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="4dc9d732-e74d-446d-adac-f5cb8a7de1cd">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>КОтгрузке</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>a2395fcc-93bf-4bea-adbf-7c9d43841e96</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>3</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="3d3a0e4f-9bad-4632-b8ab-ec80e7ade0f4">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>КОформлению</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>9c5ba5bd-8ea2-4233-b480-a45ebef49661</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>3</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="7163adc1-9810-433d-99df-4c1249318881">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>КСборке</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>7fabffc4-3ab1-4b8f-9f18-ea1a4f5b422f</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>3</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="cb0cc0b1-3291-443e-9d8a-90aefe90e209">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Собирается</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>ed617b66-7b29-45e0-9553-7d893c346c1f</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>3</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+			<Resource uuid="eec75d9b-ea7a-42f8-8a68-9af3e5174e41">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Собрано</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>6724379f-2f9d-457b-80bd-882cefed931b</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:decimal</v8:Type>
+						<v8:NumberQualifiers>
+							<v8:Digits>15</v8:Digits>
+							<v8:FractionDigits>3</v8:FractionDigits>
+							<v8:AllowedSign>Any</v8:AllowedSign>
+						</v8:NumberQualifiers>
+					</Type>
+				</Properties>
+			</Resource>
+			<Dimension uuid="527faa2d-575b-4146-b8ae-8bda531c0702">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Склад</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>21296b97-6dd6-46c3-9728-0c00388a467c</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Склады</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="bdb62a4b-40df-4b6f-bdf9-cda546e79e01">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Номенклатура</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>56e85c55-172d-436e-92fc-0c901f531a01</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Номенклатура</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="cf97610d-8267-4e0e-ab1e-b607a83f79f8">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Характеристика</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>2b09cf48-a2ec-4f59-8a69-57bb7035f558</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ХарактеристикиНоменклатуры</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</AccumulationRegister>
+</MetaDataObject>

@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="78b1abf7-5b42-4570-9a21-f2734ad18416">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ЗоныДоставки" category="Object">
+				<xr:TypeId>8b4d1445-be5f-4fc2-accb-e06982d90c7b</xr:TypeId>
+				<xr:ValueId>61e595de-6cae-4c9e-aa17-546fc57d7c1d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ЗоныДоставки" category="Ref">
+				<xr:TypeId>f0e3416b-e95e-4e1f-b186-973790d5bee5</xr:TypeId>
+				<xr:ValueId>a8cbcd18-2e7e-4931-99fb-905ee0ca6178</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ЗоныДоставки" category="Selection">
+				<xr:TypeId>0087d176-0050-4da2-a9d7-bf17df84b6a5</xr:TypeId>
+				<xr:ValueId>d15b1e2e-5637-4ca4-9bc4-85b93763518f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ЗоныДоставки" category="List">
+				<xr:TypeId>36dc1a4b-f20c-431a-8612-81f65c8c59d9</xr:TypeId>
+				<xr:ValueId>9abc43ad-fc6d-4ffb-a43e-c0900ea6953d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ЗоныДоставки" category="Manager">
+				<xr:TypeId>227d4a2f-d842-4564-876a-f0a5105a45bb</xr:TypeId>
+				<xr:ValueId>16025d7f-eaab-440b-b969-dea784348591</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЗоныДоставки</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>ba5d890b-de2b-42a0-afe2-c800460fc050</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

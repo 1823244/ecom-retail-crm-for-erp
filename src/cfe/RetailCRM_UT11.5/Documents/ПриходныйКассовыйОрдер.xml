@@ -1,0 +1,84 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="3469b869-81a5-4a04-aa8f-5a08089dbf43">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПриходныйКассовыйОрдер" category="Object">
+				<xr:TypeId>134baa0e-3a33-42d1-9c95-68591a433cc1</xr:TypeId>
+				<xr:ValueId>a711e434-0943-42cc-99fd-d06e706077e0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПриходныйКассовыйОрдер" category="Ref">
+				<xr:TypeId>66018ae4-9398-41c4-8410-9c23c1c7f156</xr:TypeId>
+				<xr:ValueId>4295ac75-3267-4e77-83c7-b8b411d3be01</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПриходныйКассовыйОрдер" category="Selection">
+				<xr:TypeId>76173792-c31c-4f2d-838c-a92b439956f3</xr:TypeId>
+				<xr:ValueId>77fddb0e-05fb-44d0-bf17-34e3eace16bf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПриходныйКассовыйОрдер" category="List">
+				<xr:TypeId>ed6190d7-5f4f-4ef7-ad0d-2d9521536101</xr:TypeId>
+				<xr:ValueId>d66a04b3-3aea-4911-95f9-6083181d910b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПриходныйКассовыйОрдер" category="Manager">
+				<xr:TypeId>9562e616-ad30-447e-aefa-f289c8427a23</xr:TypeId>
+				<xr:ValueId>19844139-c691-44af-acc6-25079d826a0e</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПриходныйКассовыйОрдер</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>e16b931a-86b3-413f-a330-7b6f835e2da7</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="dec8af15-6bd0-4801-8c0f-90b9830832c6">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Комментарий</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>37af6a16-5cf8-44c3-ab36-ffab5dc38ad4</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>0</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="8814fbf1-b8a4-432a-91de-2006449d4a69">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>СуммаДокумента</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>74879381-405d-4ca8-bd24-cbeef3532a3d</ExtendedConfigurationObject>
+					<Type>
+						<v8:TypeSet>cfg:DefinedType.ДенежнаяСуммаНеотрицательная</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Form>ФормаДокумента</Form>
+			<TabularSection uuid="472180fa-9849-4e22-b20b-4dbbd287f28e">
+				<InternalInfo>
+					<xr:GeneratedType name="DocumentTabularSection.ПриходныйКассовыйОрдер.РасшифровкаПлатежа" category="TabularSection">
+						<xr:TypeId>beecc7f8-ebea-41bd-9e63-2c091e18062e</xr:TypeId>
+						<xr:ValueId>13429185-d3bd-460b-a8e2-a4991736d831</xr:ValueId>
+					</xr:GeneratedType>
+					<xr:GeneratedType name="DocumentTabularSectionRow.ПриходныйКассовыйОрдер.РасшифровкаПлатежа" category="TabularSectionRow">
+						<xr:TypeId>31c95bff-c508-48ac-a78d-81e6b5e84fe6</xr:TypeId>
+						<xr:ValueId>666bf7be-7826-4817-b3bb-9b50fbc1c0b2</xr:ValueId>
+					</xr:GeneratedType>
+				</InternalInfo>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>РасшифровкаПлатежа</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>b6069978-b5aa-4bfa-bbb0-2a9f2a186b21</ExtendedConfigurationObject>
+				</Properties>
+				<ChildObjects/>
+			</TabularSection>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

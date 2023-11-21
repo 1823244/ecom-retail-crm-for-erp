@@ -1,0 +1,99 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="ece42740-0fe3-44f6-aa82-6febdb7fec9f">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Номенклатура" category="Object">
+				<xr:TypeId>b1a95163-fd49-42e5-afa9-32cb28de8603</xr:TypeId>
+				<xr:ValueId>4cc8b9f8-3ff8-464f-92c6-14332991ab34</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Номенклатура" category="Ref">
+				<xr:TypeId>b78905cd-4a59-4de2-8d79-48f0da321dc6</xr:TypeId>
+				<xr:ValueId>7837526c-5cb9-41f0-b0a5-383997105474</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Номенклатура" category="Selection">
+				<xr:TypeId>849742a7-0052-4643-8e1e-5c41475242c4</xr:TypeId>
+				<xr:ValueId>b00234ed-c550-40f2-9734-3295ba265b53</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Номенклатура" category="List">
+				<xr:TypeId>990fca0d-9776-4f45-b1d6-f4976ce2ced9</xr:TypeId>
+				<xr:ValueId>e3b4ede6-762c-4405-a051-f02b5452d7eb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Номенклатура" category="Manager">
+				<xr:TypeId>a304b570-71ae-4f7a-9f8f-9e5322a3e6ea</xr:TypeId>
+				<xr:ValueId>7d4c40f4-2521-4ee4-9968-030fd20053fa</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Номенклатура</Name>
+			<Comment/>
+			<Hierarchical>true</Hierarchical>
+			<Owners/>
+			<CodeLength>11</CodeLength>
+			<CodeType>String</CodeType>
+			<CodeAllowedLength>Fixed</CodeAllowedLength>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="f6809d5c-03ce-47e6-a96c-3dbf346bb83b">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ТипНоменклатуры</Name>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:EnumRef.ТипыНоменклатуры</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="8c1cf74c-0813-4a3b-966f-3bd40a2af08b">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ЕдиницаИзмерения</Name>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.УпаковкиЕдиницыИзмерения</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="7b5d07e1-0cbb-4bc8-a7af-307ac1f2f920">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ВидНоменклатуры</Name>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:CatalogRef.ВидыНоменклатуры</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="692ae4fc-ea2b-4096-bd2d-65a906ea6a64">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ИспользованиеХарактеристик</Name>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:EnumRef.ВариантыИспользованияХарактеристикНоменклатуры</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="fd623644-e334-46b5-a11a-f97cbb585c59">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Артикул</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>722c3d13-753d-4b4f-82b9-d41340f96d79</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>xs:string</v8:Type>
+						<v8:StringQualifiers>
+							<v8:Length>50</v8:Length>
+							<v8:AllowedLength>Variable</v8:AllowedLength>
+						</v8:StringQualifiers>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

@@ -1,0 +1,37 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="b92ea5ad-24fb-4b04-a033-c7f585a01bf8">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.РасходныйКассовыйОрдер" category="Object">
+				<xr:TypeId>46058106-2ad6-4db5-9e4f-09fc863dbacf</xr:TypeId>
+				<xr:ValueId>69848a4c-88a6-4757-bf6c-853cc61bc22a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.РасходныйКассовыйОрдер" category="Ref">
+				<xr:TypeId>ce7e9e2e-1620-4a91-8cb1-c294b02e395b</xr:TypeId>
+				<xr:ValueId>13dcfcc5-384d-439d-b539-477280d7c9a5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.РасходныйКассовыйОрдер" category="Selection">
+				<xr:TypeId>8beaf921-6d11-4fb1-ae20-ad93f6431dac</xr:TypeId>
+				<xr:ValueId>209aeedc-16af-42d8-be7c-6b06397b714f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.РасходныйКассовыйОрдер" category="List">
+				<xr:TypeId>5cbff8d4-71dd-4c00-bc7c-53e3be50ccfa</xr:TypeId>
+				<xr:ValueId>4d6e413c-0f1e-4bd5-9da6-c0bcaa6773cf</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.РасходныйКассовыйОрдер" category="Manager">
+				<xr:TypeId>718dd2d1-0359-4590-96aa-022fdb39e945</xr:TypeId>
+				<xr:ValueId>92f5a845-dd9b-43ab-8db0-059be0b1c403</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>РасходныйКассовыйОрдер</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>eae285fe-79a3-4d70-a64b-ccacfcabc3fb</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Form>ФормаДокумента</Form>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

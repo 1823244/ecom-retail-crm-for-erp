@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="cfe142a7-5f85-49c2-87d1-5666aa22832f">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КартыЛояльности" category="Object">
+				<xr:TypeId>1682bb96-5769-4635-8edf-4fb5a7971469</xr:TypeId>
+				<xr:ValueId>441cc6f2-c757-435b-b8eb-01c07bf38da5</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КартыЛояльности" category="Ref">
+				<xr:TypeId>584e2f52-00ab-4737-bd7c-7d58c93fdf4d</xr:TypeId>
+				<xr:ValueId>9e659c7d-2c0c-43b1-bcae-cb1f371d670a</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КартыЛояльности" category="Selection">
+				<xr:TypeId>e3bd723a-ce7f-4961-9de4-e310ec5459bb</xr:TypeId>
+				<xr:ValueId>bc35b1d9-1759-42a0-a598-fd524e11235b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КартыЛояльности" category="List">
+				<xr:TypeId>de1e68a1-c1dc-4bb1-b29b-f92e528097f5</xr:TypeId>
+				<xr:ValueId>2734fa0e-5547-467f-b5a8-131a131eb69b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КартыЛояльности" category="Manager">
+				<xr:TypeId>043e3a1e-7e9b-426d-b90b-a49973fd3953</xr:TypeId>
+				<xr:ValueId>11af566f-ef4e-40fd-b8cb-73ddec4aad99</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КартыЛояльности</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>41416354-758a-49f8-9426-aaec266ec3b9</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

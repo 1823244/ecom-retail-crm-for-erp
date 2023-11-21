@@ -1,0 +1,35 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="e9e8f508-94a0-46f9-b054-d9b45effb66d">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ЧекККМВозврат" category="Object">
+				<xr:TypeId>f34f50c1-b233-4455-b744-6c64dd98b343</xr:TypeId>
+				<xr:ValueId>a222fe4c-b423-496d-bd33-048a1932666c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ЧекККМВозврат" category="Ref">
+				<xr:TypeId>64886559-de74-4e79-b499-95124430e033</xr:TypeId>
+				<xr:ValueId>c3a50db7-ab32-482e-b01b-6104457396a0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ЧекККМВозврат" category="Selection">
+				<xr:TypeId>0129af96-9d97-48f0-a20c-8508266e763e</xr:TypeId>
+				<xr:ValueId>54da0e05-d022-4cff-aa2f-e0ad88ee8eda</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ЧекККМВозврат" category="List">
+				<xr:TypeId>cabbcfb6-ae9f-4223-beb0-b769cbd82972</xr:TypeId>
+				<xr:ValueId>9a8f544e-f879-4580-9db9-39ca5de39137</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ЧекККМВозврат" category="Manager">
+				<xr:TypeId>3d98ef23-bb87-45e6-92ca-e9b5872046cd</xr:TypeId>
+				<xr:ValueId>6639dcae-2e89-437d-88b8-36db3f39c9d6</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ЧекККМВозврат</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>19c63914-92ce-4573-9a35-c1ea61e7a23d</ExtendedConfigurationObject>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects/>
+	</Document>
+</MetaDataObject>

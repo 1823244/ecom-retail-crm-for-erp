@@ -1,0 +1,77 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<InformationRegister uuid="2d494706-b98a-4691-8055-aa741d124e29">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.ДополнительныеСведения" category="Record">
+				<xr:TypeId>42d83ddb-8580-4ea7-ab0b-ea440fc9f964</xr:TypeId>
+				<xr:ValueId>3f8e91f7-d2bb-4baa-8850-13adb4a51629</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.ДополнительныеСведения" category="Manager">
+				<xr:TypeId>3c41678e-3e34-49a5-9d38-a7b1aa18ed00</xr:TypeId>
+				<xr:ValueId>c15b1e78-ac73-4d37-be94-0bc9ac4107e7</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.ДополнительныеСведения" category="Selection">
+				<xr:TypeId>3521c132-2c84-4014-b3da-d6c1bfd6e703</xr:TypeId>
+				<xr:ValueId>0121eb44-d20f-4d17-83e1-64575b97bb62</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.ДополнительныеСведения" category="List">
+				<xr:TypeId>fb0a1bb5-37aa-4b3c-ba12-b58a5fb21733</xr:TypeId>
+				<xr:ValueId>04c211d0-003e-4d7e-881c-0c163bf40c82</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.ДополнительныеСведения" category="RecordSet">
+				<xr:TypeId>4f275c7a-5577-469e-8765-2a63eec5ac92</xr:TypeId>
+				<xr:ValueId>b720b4ba-6008-4e0f-b078-3f6a9407cfbd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.ДополнительныеСведения" category="RecordKey">
+				<xr:TypeId>ca71c403-4de4-420c-a244-6749f62fc1a6</xr:TypeId>
+				<xr:ValueId>e7f0cf9d-2c84-4fa0-9f38-c5aaf996a3eb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.ДополнительныеСведения" category="RecordManager">
+				<xr:TypeId>095849cc-8ae6-42ef-92d4-c93b5838c784</xr:TypeId>
+				<xr:ValueId>7a9b3f0d-8a0f-43b4-aacd-2fbb9432c7bd</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДополнительныеСведения</Name>
+			<Comment/>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Resource uuid="9a1428bb-a636-447f-ad72-bef45d0fe796">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Значение</Name>
+					<Comment/>
+					<Type>
+						<v8:TypeSet>cfg:Characteristic.ДополнительныеРеквизитыИСведения</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Resource>
+			<Dimension uuid="c46f7eb8-5525-40c6-8a79-f6c623c0937d">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Объект</Name>
+					<Comment/>
+					<Type>
+						<v8:TypeSet>cfg:AnyRef</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Dimension>
+			<Dimension uuid="fc5cc282-3d17-4d1d-8850-b66fdff4a13b">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Свойство</Name>
+					<Comment/>
+					<Type>
+						<v8:Type>cfg:ChartOfCharacteristicTypesRef.ДополнительныеРеквизитыИСведения</v8:Type>
+					</Type>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>

@@ -1,0 +1,283 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<Form xmlns="http://v8.1c.ru/8.3/xcf/logform" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:dcscor="http://v8.1c.ru/8.1/data-composition-system/core" xmlns:dcsset="http://v8.1c.ru/8.1/data-composition-system/settings" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Title>
+		<v8:item>
+			<v8:lang>ru</v8:lang>
+			<v8:content>Бонусный счет</v8:content>
+		</v8:item>
+	</Title>
+	<AutoTitle>false</AutoTitle>
+	<ShowTitle>false</ShowTitle>
+	<AutoCommandBar name="ФормаКоманднаяПанель" id="-1">
+		<Autofill>false</Autofill>
+	</AutoCommandBar>
+	<Events>
+		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
+	</Events>
+	<ChildItems>
+		<InputField name="idУчастия" id="1">
+			<DataPath>idУчастия</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="idУчастияКонтекстноеМеню" id="2"/>
+			<ExtendedTooltip name="idУчастияРасширеннаяПодсказка" id="3"/>
+		</InputField>
+		<InputField name="СтатусУчастия" id="4">
+			<DataPath>СтатусУчастия</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="СтатусУчастияКонтекстноеМеню" id="5"/>
+			<ExtendedTooltip name="СтатусУчастияРасширеннаяПодсказка" id="6"/>
+		</InputField>
+		<InputField name="ТекущийУровень" id="7">
+			<DataPath>ТекущийУровень</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="ТекущийУровеньКонтекстноеМеню" id="8"/>
+			<ExtendedTooltip name="ТекущийУровеньРасширеннаяПодсказка" id="9"/>
+		</InputField>
+		<InputField name="СуммаПокупок" id="10">
+			<DataPath>СуммаПокупок</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="СуммаПокупокКонтекстноеМеню" id="11"/>
+			<ExtendedTooltip name="СуммаПокупокРасширеннаяПодсказка" id="12"/>
+		</InputField>
+		<InputField name="СуммаДоСледующегоУровня" id="13">
+			<DataPath>СуммаДоСледующегоУровня</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="СуммаДоСледующегоУровняКонтекстноеМеню" id="14"/>
+			<ExtendedTooltip name="СуммаДоСледующегоУровняРасширеннаяПодсказка" id="15"/>
+		</InputField>
+		<InputField name="БонусовНаСчете" id="16">
+			<DataPath>БонусовНаСчете</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="БонусовНаСчетеКонтекстноеМеню" id="17"/>
+			<ExtendedTooltip name="БонусовНаСчетеРасширеннаяПодсказка" id="18"/>
+		</InputField>
+		<InputField name="НомерБонуснойКарты" id="19">
+			<DataPath>НомерБонуснойКарты</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="НомерБонуснойКартыКонтекстноеМеню" id="20"/>
+			<ExtendedTooltip name="НомерБонуснойКартыРасширеннаяПодсказка" id="21"/>
+		</InputField>
+		<InputField name="ПривязанныйТелефон" id="22">
+			<DataPath>ПривязанныйТелефон</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="ПривязанныйТелефонКонтекстноеМеню" id="23"/>
+			<ExtendedTooltip name="ПривязанныйТелефонРасширеннаяПодсказка" id="24"/>
+		</InputField>
+		<InputField name="ДатаРегистрации" id="25">
+			<DataPath>ДатаРегистрации</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="ДатаРегистрацииКонтекстноеМеню" id="26"/>
+			<ExtendedTooltip name="ДатаРегистрацииРасширеннаяПодсказка" id="27"/>
+		</InputField>
+		<LabelDecoration name="ПравилаТекущегоУровня" id="28">
+			<Font ref="style:NormalTextFont" bold="true" italic="false" underline="false" strikeout="false" kind="StyleItem"/>
+			<Title formatted="false">
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Правила текущего уровня</v8:content>
+				</v8:item>
+			</Title>
+			<ContextMenu name="ПравилаТекущегоУровняКонтекстноеМеню" id="29"/>
+			<ExtendedTooltip name="ПравилаТекущегоУровняРасширеннаяПодсказка" id="30"/>
+		</LabelDecoration>
+		<InputField name="СуммаДляПерехода" id="31">
+			<DataPath>СуммаДляПерехода</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="СуммаДляПереходаКонтекстноеМеню" id="32"/>
+			<ExtendedTooltip name="СуммаДляПереходаРасширеннаяПодсказка" id="33"/>
+		</InputField>
+		<InputField name="ОбычныеТовары" id="34">
+			<DataPath>ОбычныеТовары</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="ОбычныеТоварыКонтекстноеМеню" id="35"/>
+			<ExtendedTooltip name="ОбычныеТоварыРасширеннаяПодсказка" id="36"/>
+		</InputField>
+		<InputField name="АкционнныеТовары" id="37">
+			<DataPath>АкционнныеТовары</DataPath>
+			<ReadOnly>true</ReadOnly>
+			<ContextMenu name="АкционнныеТоварыКонтекстноеМеню" id="38"/>
+			<ExtendedTooltip name="АкционнныеТоварыРасширеннаяПодсказка" id="39"/>
+		</InputField>
+	</ChildItems>
+	<Attributes>
+		<Attribute name="idУчастия" id="1">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Id участия</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="СтатусУчастия" id="2">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Статус участия</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ТекущийУровень" id="3">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Текущий уровень</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="СуммаПокупок" id="4">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сумма покупок</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="СуммаДоСледующегоУровня" id="5">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сумма до следующего уровня</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="БонусовНаСчете" id="6">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Бонусов на счете</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="НомерБонуснойКарты" id="7">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Номер бонусной карты</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ПривязанныйТелефон" id="8">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Привязанный телефон</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ДатаРегистрации" id="9">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Дата регистрации</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:dateTime</v8:Type>
+				<v8:DateQualifiers>
+					<v8:DateFractions>DateTime</v8:DateFractions>
+				</v8:DateQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="СуммаДляПерехода" id="10">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Сумма для перехода</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="ОбычныеТовары" id="11">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Обычные товары</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+		<Attribute name="АкционнныеТовары" id="12">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Акционнные товары</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
+	</Attributes>
+</Form>

@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="b4dbc566-cf41-47a8-bdd1-67cbdd96c0be">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КлассификаторБанков" category="Object">
+				<xr:TypeId>0d1c86b3-96e0-4b5f-9d87-c04989a03128</xr:TypeId>
+				<xr:ValueId>986665db-4592-42ec-9e03-f3a41767dd9c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КлассификаторБанков" category="Ref">
+				<xr:TypeId>03e7bfff-3526-42b1-91a6-b3d9ebd6d3a2</xr:TypeId>
+				<xr:ValueId>6e2e254d-09c1-4e2b-9145-ce2ee281d1d3</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КлассификаторБанков" category="Selection">
+				<xr:TypeId>7c3721cd-1627-4ae0-ab6d-189c4c5e950f</xr:TypeId>
+				<xr:ValueId>044158c9-a899-4aa5-8b8f-d2e1bf5a33bd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КлассификаторБанков" category="List">
+				<xr:TypeId>7cff32ec-f2d9-4e5c-92d3-30b9620ad301</xr:TypeId>
+				<xr:ValueId>87ea3de5-91e9-461b-873b-0fae7b512a42</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КлассификаторБанков" category="Manager">
+				<xr:TypeId>8c2d593c-73b4-4290-8160-681232f6b332</xr:TypeId>
+				<xr:ValueId>990a9d74-c96d-4247-b6ec-c8b96b5710e7</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КлассификаторБанков</Name>
+			<Comment/>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

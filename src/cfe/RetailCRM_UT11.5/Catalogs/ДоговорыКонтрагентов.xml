@@ -1,0 +1,94 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="db8f1c49-67ca-444d-896a-179bab64d640">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ДоговорыКонтрагентов" category="Object">
+				<xr:TypeId>e3516d5d-a502-4e02-8705-bd4e30196dc6</xr:TypeId>
+				<xr:ValueId>631d2305-344f-40f0-b9fe-cc6fb032aefc</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ДоговорыКонтрагентов" category="Ref">
+				<xr:TypeId>8ccc5fe3-5358-4398-88f1-38738b2fd067</xr:TypeId>
+				<xr:ValueId>09df8c51-cec5-4446-8f87-8adfb13beb1d</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ДоговорыКонтрагентов" category="Selection">
+				<xr:TypeId>ec058b88-b060-46b6-aa33-cb5e7c0ec458</xr:TypeId>
+				<xr:ValueId>fdcc34bb-bf31-4bef-995e-350573b97956</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ДоговорыКонтрагентов" category="List">
+				<xr:TypeId>5e9d710d-d2bf-472d-8c71-853ec1bc8a37</xr:TypeId>
+				<xr:ValueId>61e41c52-68a2-452e-bfd1-0fced113736b</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ДоговорыКонтрагентов" category="Manager">
+				<xr:TypeId>c8e5df4e-0f14-4399-bc7d-abd342c24874</xr:TypeId>
+				<xr:ValueId>03f22e79-72ba-4248-81f1-9daa08c619a9</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ДоговорыКонтрагентов</Name>
+			<Comment/>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="06a4bbdd-0230-4a64-9d0a-565864081072">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Контрагент</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>6fe24eab-4e23-451e-8cae-c25d6e78e3df</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Контрагенты</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="2f9aa5cd-980f-42a7-b2b6-aa72c22dedaa">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Организация</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>8a2605ff-98ff-4bd6-8f43-ab6f25a3fcda</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Организации</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="ede1394b-fb2b-45f9-82eb-ac282aed9b09">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ВалютаВзаиморасчетов</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>a341cde0-c6be-4cb2-93c7-743bc8cbf219</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.Валюты</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="300c6a4d-b2a9-4089-8081-7d51d9bff73d">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Статус</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>95fd57e5-8d9b-4a9e-aa6b-e248c6f95a7b</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:EnumRef.СтатусыДоговоровКонтрагентов</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Attribute uuid="dfec6794-75ee-485f-80ea-302bbf4a8815">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>ХозяйственнаяОперация</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>1e4d6429-3779-415e-a0fd-605e54b909fe</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:EnumRef.ХозяйственныеОперации</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+		</ChildObjects>
+	</Catalog>
+</MetaDataObject>

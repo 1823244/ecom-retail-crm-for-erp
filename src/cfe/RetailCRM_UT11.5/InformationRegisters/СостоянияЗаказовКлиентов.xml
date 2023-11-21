@@ -1,0 +1,69 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<InformationRegister uuid="e1ac30ef-b5eb-4864-a7d7-3928b7f02538">
+		<InternalInfo>
+			<xr:GeneratedType name="InformationRegisterRecord.СостоянияЗаказовКлиентов" category="Record">
+				<xr:TypeId>0d517481-500a-42cd-bc02-d51018aef733</xr:TypeId>
+				<xr:ValueId>92403b9d-16bc-423d-9eeb-20a4f522ae78</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterManager.СостоянияЗаказовКлиентов" category="Manager">
+				<xr:TypeId>34d40ad8-763e-432a-87d2-a403b73fd952</xr:TypeId>
+				<xr:ValueId>dbd5bfa7-94a8-48f5-b8dd-35605de41333</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterSelection.СостоянияЗаказовКлиентов" category="Selection">
+				<xr:TypeId>83122467-be24-466c-8f03-b64ae90a026c</xr:TypeId>
+				<xr:ValueId>ba8f8a70-aaf8-4811-a6f1-f2691fee9ec8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterList.СостоянияЗаказовКлиентов" category="List">
+				<xr:TypeId>a5eb5e44-979a-4fba-a4f1-4053e10be94b</xr:TypeId>
+				<xr:ValueId>94873bdc-2bb7-4cc2-ad4b-59166bee7ec0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordSet.СостоянияЗаказовКлиентов" category="RecordSet">
+				<xr:TypeId>11cc913d-39db-46d5-9cab-33c684a91262</xr:TypeId>
+				<xr:ValueId>d65fefde-4399-4bd3-82c6-5dd6b9314805</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordKey.СостоянияЗаказовКлиентов" category="RecordKey">
+				<xr:TypeId>5bc34b28-da9d-42d3-abfe-020bb13ad49e</xr:TypeId>
+				<xr:ValueId>cc88a2df-324d-4983-9c0e-ee29e245e35f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="InformationRegisterRecordManager.СостоянияЗаказовКлиентов" category="RecordManager">
+				<xr:TypeId>dee9fda8-8152-46c4-83d3-0a994c6bb4ae</xr:TypeId>
+				<xr:ValueId>fb301cc5-aedd-46d7-b006-113993b58471</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>СостоянияЗаказовКлиентов</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>bc51e744-f22b-4a4d-9db1-4032f96cd184</ExtendedConfigurationObject>
+			<InformationRegisterPeriodicity>Nonperiodical</InformationRegisterPeriodicity>
+			<WriteMode>Independent</WriteMode>
+		</Properties>
+		<ChildObjects>
+			<Resource uuid="6d1d302c-76b5-4b72-b881-d94fb9d5eaa6">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Состояние</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>3b7c75dc-9f63-4ed2-aaa6-9baa9da4c61f</ExtendedConfigurationObject>
+					<Type>
+						<v8:TypeSet>cfg:AnyRef</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Resource>
+			<Dimension uuid="b8281db9-db56-4977-9ccf-b9d5a4b2b908">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>Заказ</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>908232c3-529c-4c04-9bdd-98d3cf6d8483</ExtendedConfigurationObject>
+					<Type>
+						<v8:TypeSet>cfg:AnyRef</v8:TypeSet>
+					</Type>
+				</Properties>
+			</Dimension>
+		</ChildObjects>
+	</InformationRegister>
+</MetaDataObject>

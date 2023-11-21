@@ -1,0 +1,36 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="f690cfee-7ea2-4950-a7cc-a4ed2293505d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.КонтактныеЛицаПартнеров" category="Object">
+				<xr:TypeId>16095ce2-d96c-4765-893e-7c0945f261bc</xr:TypeId>
+				<xr:ValueId>17c0d10f-e222-4202-bc0d-458824145d70</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.КонтактныеЛицаПартнеров" category="Ref">
+				<xr:TypeId>5d115d11-274c-4539-a8be-438a50ac944a</xr:TypeId>
+				<xr:ValueId>fe88968e-43e5-4e8a-a72d-02c1afaaec0f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.КонтактныеЛицаПартнеров" category="Selection">
+				<xr:TypeId>bc603225-be0c-4157-bda5-88cedb5c4260</xr:TypeId>
+				<xr:ValueId>a66704cb-0344-4d22-a219-a03c5763e021</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.КонтактныеЛицаПартнеров" category="List">
+				<xr:TypeId>b8d590b9-0dea-4e66-9ed7-4767bdbbc418</xr:TypeId>
+				<xr:ValueId>60dfd355-27db-4c75-8adf-828ebf31b6fb</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.КонтактныеЛицаПартнеров" category="Manager">
+				<xr:TypeId>fcb86865-3725-4592-9ed3-5d38ea9462a4</xr:TypeId>
+				<xr:ValueId>7f4f4c7f-63ac-49c2-9f6b-7cc2366a271a</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>КонтактныеЛицаПартнеров</Name>
+			<Comment/>
+			<Owners>
+				<xr:Item xsi:type="xr:MDObjectRef">Catalog.Партнеры</xr:Item>
+			</Owners>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

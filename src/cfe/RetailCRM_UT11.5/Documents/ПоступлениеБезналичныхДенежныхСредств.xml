@@ -1,0 +1,78 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Document uuid="4b7fd2b1-3162-491c-905b-46fe7c4abf36">
+		<InternalInfo>
+			<xr:GeneratedType name="DocumentObject.ПоступлениеБезналичныхДенежныхСредств" category="Object">
+				<xr:TypeId>197492df-24c4-4d4d-81cb-047a3dd4f2e8</xr:TypeId>
+				<xr:ValueId>e230d242-194c-45d7-b22f-e14ec8f1c0b2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentRef.ПоступлениеБезналичныхДенежныхСредств" category="Ref">
+				<xr:TypeId>4a9c2323-8e1b-4fd9-9c70-3188b7df6b91</xr:TypeId>
+				<xr:ValueId>0738f999-5a29-44de-8467-2d9a98a15849</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentSelection.ПоступлениеБезналичныхДенежныхСредств" category="Selection">
+				<xr:TypeId>8299da3b-455b-4795-9a9c-e87c16745757</xr:TypeId>
+				<xr:ValueId>ae5d16e5-1be5-4c10-a3b9-d76947f7d10e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentList.ПоступлениеБезналичныхДенежныхСредств" category="List">
+				<xr:TypeId>245ffcda-741e-4d26-92a9-14db929210ee</xr:TypeId>
+				<xr:ValueId>0d645d2c-534f-431a-acef-f0cf272fce0c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="DocumentManager.ПоступлениеБезналичныхДенежныхСредств" category="Manager">
+				<xr:TypeId>607ff82f-2b88-45cc-a14e-cf2761483f09</xr:TypeId>
+				<xr:ValueId>37ab65f1-7110-441d-aac6-3ac05cb11666</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ПоступлениеБезналичныхДенежныхСредств</Name>
+			<Comment/>
+			<RegisterRecords/>
+		</Properties>
+		<ChildObjects>
+			<Attribute uuid="99712f21-cdf9-4966-9bae-8da56139bddd">
+				<InternalInfo/>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>БанковскийСчет</Name>
+					<Comment/>
+					<ExtendedConfigurationObject>4cfa0580-6bac-486f-917f-8797ef66b8b5</ExtendedConfigurationObject>
+					<Type>
+						<v8:Type>cfg:CatalogRef.БанковскиеСчетаОрганизаций</v8:Type>
+					</Type>
+				</Properties>
+			</Attribute>
+			<Form>ФормаДокумента</Form>
+			<TabularSection uuid="0cb5127f-1cef-45db-becd-a1f7a8d0d6ef">
+				<InternalInfo>
+					<xr:GeneratedType name="DocumentTabularSection.ПоступлениеБезналичныхДенежныхСредств.РасшифровкаПлатежа" category="TabularSection">
+						<xr:TypeId>c94d51df-ea61-4cde-9c80-75e885b93b05</xr:TypeId>
+						<xr:ValueId>26eee204-0a97-43db-b83b-b60f3e0637b6</xr:ValueId>
+					</xr:GeneratedType>
+					<xr:GeneratedType name="DocumentTabularSectionRow.ПоступлениеБезналичныхДенежныхСредств.РасшифровкаПлатежа" category="TabularSectionRow">
+						<xr:TypeId>b682f739-296d-4ce3-a30d-3d04a19df1d7</xr:TypeId>
+						<xr:ValueId>967c6496-d104-4d0e-9e66-f57d03e2b7e0</xr:ValueId>
+					</xr:GeneratedType>
+				</InternalInfo>
+				<Properties>
+					<ObjectBelonging>Adopted</ObjectBelonging>
+					<Name>РасшифровкаПлатежа</Name>
+					<Comment/>
+				</Properties>
+				<ChildObjects>
+					<Attribute uuid="63adb226-8e7e-473f-b67a-477765524f85">
+						<InternalInfo/>
+						<Properties>
+							<ObjectBelonging>Adopted</ObjectBelonging>
+							<Name>ОснованиеПлатежа</Name>
+							<Comment/>
+							<Type>
+								<v8:TypeSet>cfg:AnyRef</v8:TypeSet>
+							</Type>
+						</Properties>
+					</Attribute>
+				</ChildObjects>
+			</TabularSection>
+		</ChildObjects>
+	</Document>
+</MetaDataObject>

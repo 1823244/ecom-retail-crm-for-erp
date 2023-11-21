@@ -1,0 +1,34 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="4b917901-e6c4-4ce3-820e-0bb149085932">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.Кассы" category="Object">
+				<xr:TypeId>f4a8f3e2-9b8f-4b1d-bf01-ccc7cad33c80</xr:TypeId>
+				<xr:ValueId>3d477116-4db8-4c4c-bd9e-00d2dcc823a2</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.Кассы" category="Ref">
+				<xr:TypeId>dec959b1-5888-47f0-a814-6afbdc47bdce</xr:TypeId>
+				<xr:ValueId>d5db2965-c400-4784-a2d1-d8af64a93eea</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.Кассы" category="Selection">
+				<xr:TypeId>eb4ec392-fe09-40fe-9821-6e5014cca447</xr:TypeId>
+				<xr:ValueId>35c670ef-46cd-4301-b363-7e281b9fd3a0</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.Кассы" category="List">
+				<xr:TypeId>02658597-e8c8-4718-a78d-6efc4566e818</xr:TypeId>
+				<xr:ValueId>f36939de-d3c0-475a-98a5-0c523f684855</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.Кассы" category="Manager">
+				<xr:TypeId>ef24b4e1-7329-4f0c-8c70-5e5fee44a317</xr:TypeId>
+				<xr:ValueId>f6797692-c265-40bf-9464-7f65a17df088</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>Кассы</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>f580f9ef-6c59-4e60-b909-3bb429771dc5</ExtendedConfigurationObject>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

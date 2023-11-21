@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="a3e5e477-3b37-45a3-8764-a5bd5c2906a1">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.НаборыДополнительныхРеквизитовИСведений" category="Object">
+				<xr:TypeId>b861e372-cf1e-4f11-9b7a-72ed3c573f1f</xr:TypeId>
+				<xr:ValueId>9c49b8b2-a609-47d7-af26-d54769a37d9e</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.НаборыДополнительныхРеквизитовИСведений" category="Ref">
+				<xr:TypeId>e811e9cb-9145-434b-8595-78669791c3fc</xr:TypeId>
+				<xr:ValueId>639b7f5b-f424-488c-9ebf-f136403767f4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.НаборыДополнительныхРеквизитовИСведений" category="Selection">
+				<xr:TypeId>cc1e7161-247f-4064-a2d0-dcdc0134fe55</xr:TypeId>
+				<xr:ValueId>d9d6fdd6-f71b-48d2-875f-256465a5e579</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.НаборыДополнительныхРеквизитовИСведений" category="List">
+				<xr:TypeId>fa8d79f0-9040-4a17-b788-d613482f3c8c</xr:TypeId>
+				<xr:ValueId>a93cd73a-e534-42ec-acb3-e22af4ff198f</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.НаборыДополнительныхРеквизитовИСведений" category="Manager">
+				<xr:TypeId>e747e0dd-6b6c-4459-af2b-d9e83a3bde91</xr:TypeId>
+				<xr:ValueId>4b165e45-fd0c-4a9d-bf5a-b625ad4aa72b</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>НаборыДополнительныхРеквизитовИСведений</Name>
+			<Comment/>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>

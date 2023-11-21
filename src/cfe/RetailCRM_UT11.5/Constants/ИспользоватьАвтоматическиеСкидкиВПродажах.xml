@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Constant uuid="60584654-152c-4a8f-977c-a5fbd61ec1cb">
+		<InternalInfo>
+			<xr:GeneratedType name="ConstantManager.ИспользоватьАвтоматическиеСкидкиВПродажах" category="Manager">
+				<xr:TypeId>8e0fe914-b0a0-4d15-9d61-eea910d88bac</xr:TypeId>
+				<xr:ValueId>9db67103-80a2-49d9-9619-93eeb19ad3b8</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ConstantValueManager.ИспользоватьАвтоматическиеСкидкиВПродажах" category="ValueManager">
+				<xr:TypeId>2a854e86-ae50-4847-8583-101bffdb23a5</xr:TypeId>
+				<xr:ValueId>7252609d-a786-4cc2-b486-d3e542be52a4</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="ConstantValueKey.ИспользоватьАвтоматическиеСкидкиВПродажах" category="ValueKey">
+				<xr:TypeId>7ed89ba7-5dd1-42c8-9e61-5b764a29eb33</xr:TypeId>
+				<xr:ValueId>2321e231-db45-4265-9e81-1ab8a1624583</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ИспользоватьАвтоматическиеСкидкиВПродажах</Name>
+			<Comment/>
+			<ExtendedConfigurationObject>fcd726df-e8b2-496c-891b-49f1048d76c1</ExtendedConfigurationObject>
+			<Type>
+				<v8:Type>xs:boolean</v8:Type>
+			</Type>
+		</Properties>
+	</Constant>
+</MetaDataObject>

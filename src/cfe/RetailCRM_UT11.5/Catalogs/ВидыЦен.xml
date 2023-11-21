@@ -1,0 +1,33 @@
+﻿<?xml version="1.0" encoding="UTF-8"?>
+<MetaDataObject xmlns="http://v8.1c.ru/8.3/MDClasses" xmlns:app="http://v8.1c.ru/8.2/managed-application/core" xmlns:cfg="http://v8.1c.ru/8.1/data/enterprise/current-config" xmlns:cmi="http://v8.1c.ru/8.2/managed-application/cmi" xmlns:ent="http://v8.1c.ru/8.1/data/enterprise" xmlns:lf="http://v8.1c.ru/8.2/managed-application/logform" xmlns:style="http://v8.1c.ru/8.1/data/ui/style" xmlns:sys="http://v8.1c.ru/8.1/data/ui/fonts/system" xmlns:v8="http://v8.1c.ru/8.1/data/core" xmlns:v8ui="http://v8.1c.ru/8.1/data/ui" xmlns:web="http://v8.1c.ru/8.1/data/ui/colors/web" xmlns:win="http://v8.1c.ru/8.1/data/ui/colors/windows" xmlns:xen="http://v8.1c.ru/8.3/xcf/enums" xmlns:xpr="http://v8.1c.ru/8.3/xcf/predef" xmlns:xr="http://v8.1c.ru/8.3/xcf/readable" xmlns:xs="http://www.w3.org/2001/XMLSchema" xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" version="2.16">
+	<Catalog uuid="b0d74378-f3ce-4585-b4ad-497aa3e2809d">
+		<InternalInfo>
+			<xr:GeneratedType name="CatalogObject.ВидыЦен" category="Object">
+				<xr:TypeId>36b80fde-61f2-4a6d-b662-3a7dd62ea396</xr:TypeId>
+				<xr:ValueId>fdf7c72d-b0ff-489f-aea4-a93cca4d92fd</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogRef.ВидыЦен" category="Ref">
+				<xr:TypeId>86e12027-4219-4273-8b61-e98125ae1746</xr:TypeId>
+				<xr:ValueId>f2c03596-9f1f-4e69-9c5f-d91b0b7191b1</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogSelection.ВидыЦен" category="Selection">
+				<xr:TypeId>ceb488a5-d96a-43b9-8220-2d8a985bd4bb</xr:TypeId>
+				<xr:ValueId>0bd2c3cf-9b34-4c18-9b75-daeadbebdd72</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogList.ВидыЦен" category="List">
+				<xr:TypeId>b38688b6-ad26-42b5-b596-bb87a0668704</xr:TypeId>
+				<xr:ValueId>b4d8dd12-a221-43ce-a3a9-c953eea1661c</xr:ValueId>
+			</xr:GeneratedType>
+			<xr:GeneratedType name="CatalogManager.ВидыЦен" category="Manager">
+				<xr:TypeId>2e4ee2e3-48d3-494a-ae8e-7e2c51623341</xr:TypeId>
+				<xr:ValueId>553f95d7-49dc-4400-ad65-a5ce385db179</xr:ValueId>
+			</xr:GeneratedType>
+		</InternalInfo>
+		<Properties>
+			<ObjectBelonging>Adopted</ObjectBelonging>
+			<Name>ВидыЦен</Name>
+			<Comment/>
+		</Properties>
+		<ChildObjects/>
+	</Catalog>
+</MetaDataObject>
