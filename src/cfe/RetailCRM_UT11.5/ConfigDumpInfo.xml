@@ -187,7 +187,7 @@
 		<Metadata name="CommonPicture.РМК_Цифра9" id="d86025c7-2b0d-487d-be50-1042dac7ad36" configVersion="2a63b4ed2f3465ec4e7bb47c794eb78d4ba75d64"/>
 		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="652431a4-bab8-4a8c-be23-f92a95aee7c2" configVersion="aaf706e5a1ec9766d93012da2b0bdcbbefeccf4e"/>
 		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="6393778f-c269-4ce5-877b-b1f7d9054b53" configVersion="3b90a72c149f7b61fb47ac5fca1dc3fdd8c5f658"/>
-		<Metadata name="Configuration.RetailCRMИнтеграция" id="0f95ef4a-3eb9-492d-b4a3-819a4764b17c" configVersion="f4334168eec0913af2180f49571c4e025a34a397"/>
+		<Metadata name="Configuration.RetailCRMИнтеграция" id="0f95ef4a-3eb9-492d-b4a3-819a4764b17c" configVersion="fc07da74e6149edd8fb6e4c8b2c147b2f3d05ead"/>
 		<Metadata name="Configuration.RetailCRMИнтеграция.Logo" id="e7c35838-545e-4b73-8567-d25efa503a57.1" configVersion="6e7873093dbaa33b7577d50d6752bc45f1579a40"/>
 		<Metadata name="Configuration.RetailCRMИнтеграция.Splash" id="e7c35838-545e-4b73-8567-d25efa503a57.2" configVersion="1744ee37ab2a3df2774e5b1936c954659ec97183"/>
 		<Metadata name="Constant.ИспользоватьАвтоматическиеСкидкиВПродажах" id="60584654-152c-4a8f-977c-a5fbd61ec1cb" configVersion="05c483ad355c58ed30d3eabc86bb6b379c30197d"/>
@@ -315,7 +315,7 @@
 		<Metadata name="DataProcessor.crm_RetailCRMОбработка.Form.УправляемаяФорма.Form" id="a2cba80c-1e8a-41ac-9858-01d58a2873cd.0" configVersion="5b029b48bce8ad11b6443b73ebd82caa31fcf345"/>
 		<Metadata name="DataProcessor.crm_RetailCRMОбработка.Help" id="89cc1bc6-88a2-457a-bf56-17059b884222.1" configVersion="53cfd63f45df8173950bdf8745ef29c1e034e322"/>
 		<Metadata name="DataProcessor.crm_RetailCRMОбработка.ManagerModule" id="89cc1bc6-88a2-457a-bf56-17059b884222.2" configVersion="3e79aee1b3d4c280307790f06a6cfa91335842dc"/>
-		<Metadata name="DataProcessor.crm_RetailCRMОбработка.ObjectModule" id="89cc1bc6-88a2-457a-bf56-17059b884222.0" configVersion="2c5f9687cd3d7418c1b4d7a8cec2cac56f5b875c"/>
+		<Metadata name="DataProcessor.crm_RetailCRMОбработка.ObjectModule" id="89cc1bc6-88a2-457a-bf56-17059b884222.0" configVersion="0c127a0d61665091fbb573bd88c07ee23cde0843"/>
 		<Metadata name="DefinedType.Артикул" id="b7c0c622-d4c3-4bed-b90e-6df75f81a021" configVersion="ce0ccb4860df5f500740bb220b7a117598bfe58f"/>
 		<Metadata name="DefinedType.ДенежнаяСуммаЛюбогоЗнака" id="b43ac0e0-0837-4a0b-81fd-c3fbf86df1c0" configVersion="63773609b83552d44a4b3c8376f6b813bd5a5e60"/>
 		<Metadata name="DefinedType.ДенежнаяСуммаНеотрицательная" id="f4a44e42-fb22-4bac-a89d-72f882f5f512" configVersion="8a917c346486ba7a97698f8fffc6a6cfd082e9a9"/>

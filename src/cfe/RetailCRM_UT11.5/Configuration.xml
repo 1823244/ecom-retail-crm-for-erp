@@ -140,41 +140,41 @@
 			<CommonForm>crm_ВыборКлиента</CommonForm>
 			<CommonForm>crm_РасчетБаллов</CommonForm>
 			<CommonForm>crm_РегистрацияКлиента</CommonForm>
-			<Catalog>ВидыЦен</Catalog>
-			<Catalog>Склады</Catalog>
-			<Catalog>Пользователи</Catalog>
-			<Catalog>Контрагенты</Catalog>
-			<Catalog>БанковскиеСчетаКонтрагентов</Catalog>
-			<Catalog>КлассификаторБанков</Catalog>
-			<Catalog>ХарактеристикиНоменклатуры</Catalog>
-			<Catalog>Номенклатура</Catalog>
-			<Catalog>ВидыНоменклатуры</Catalog>
-			<Catalog>НаборыДополнительныхРеквизитовИСведений</Catalog>
-			<Catalog>ФизическиеЛица</Catalog>
-			<Catalog>НаправленияДеятельности</Catalog>
-			<Catalog>Валюты</Catalog>
-			<Catalog>КонтактныеЛицаПартнеров</Catalog>
-			<Catalog>СделкиСКлиентами</Catalog>
-			<Catalog>Приоритеты</Catalog>
-			<Catalog>Партнеры</Catalog>
-			<Catalog>СоглашенияСКлиентами</Catalog>
-			<Catalog>Организации</Catalog>
-			<Catalog>ДоговорыКонтрагентов</Catalog>
-			<Catalog>УпаковкиЕдиницыИзмерения</Catalog>
-			<Catalog>ЭквайринговыеТерминалы</Catalog>
-			<Catalog>ВидыКонтактнойИнформации</Catalog>
-			<Catalog>БанковскиеСчетаОрганизаций</Catalog>
 			<Catalog>crm_Организации</Catalog>
-			<Catalog>СтавкиНДС</Catalog>
-			<Catalog>Кассы</Catalog>
-			<Catalog>НоменклатураКонтрагентов</Catalog>
-			<Catalog>КартыЛояльности</Catalog>
-			<Catalog>ЗоныДоставки</Catalog>
-			<Catalog>СтруктураПредприятия</Catalog>
-			<Catalog>СерииНоменклатуры</Catalog>
-			<Catalog>ПричиныОтменыЗаказовКлиентов</Catalog>
+			<Catalog>БанковскиеСчетаКонтрагентов</Catalog>
+			<Catalog>БанковскиеСчетаОрганизаций</Catalog>
+			<Catalog>Валюты</Catalog>
+			<Catalog>ВидыКонтактнойИнформации</Catalog>
+			<Catalog>ВидыНоменклатуры</Catalog>
+			<Catalog>ВидыЦен</Catalog>
 			<Catalog>ГруппыФинансовогоУчетаРасчетов</Catalog>
+			<Catalog>ДоговорыКонтрагентов</Catalog>
+			<Catalog>ЗоныДоставки</Catalog>
+			<Catalog>КартыЛояльности</Catalog>
+			<Catalog>Кассы</Catalog>
 			<Catalog>КассыККМ</Catalog>
+			<Catalog>КлассификаторБанков</Catalog>
+			<Catalog>КонтактныеЛицаПартнеров</Catalog>
+			<Catalog>Контрагенты</Catalog>
+			<Catalog>НаборыДополнительныхРеквизитовИСведений</Catalog>
+			<Catalog>НаправленияДеятельности</Catalog>
+			<Catalog>Номенклатура</Catalog>
+			<Catalog>НоменклатураКонтрагентов</Catalog>
+			<Catalog>Организации</Catalog>
+			<Catalog>Партнеры</Catalog>
+			<Catalog>Пользователи</Catalog>
+			<Catalog>Приоритеты</Catalog>
+			<Catalog>ПричиныОтменыЗаказовКлиентов</Catalog>
+			<Catalog>СделкиСКлиентами</Catalog>
+			<Catalog>СерииНоменклатуры</Catalog>
+			<Catalog>Склады</Catalog>
+			<Catalog>СоглашенияСКлиентами</Catalog>
+			<Catalog>СтавкиНДС</Catalog>
+			<Catalog>СтруктураПредприятия</Catalog>
+			<Catalog>УпаковкиЕдиницыИзмерения</Catalog>
+			<Catalog>ФизическиеЛица</Catalog>
+			<Catalog>ХарактеристикиНоменклатуры</Catalog>
+			<Catalog>ЭквайринговыеТерминалы</Catalog>
 			<Document>ЗаказКлиента</Document>
 			<Document>ПоступлениеБезналичныхДенежныхСредств</Document>
 			<Document>РеализацияТоваровУслуг</Document>
