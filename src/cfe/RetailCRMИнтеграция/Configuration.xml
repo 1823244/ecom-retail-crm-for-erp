@@ -109,6 +109,7 @@
 			<CommonPicture>Отчеты</CommonPicture>
 			<CommonModule>crm_RetailCRMОбщий</CommonModule>
 			<CommonModule>crm_RetailCRMОбработка</CommonModule>
+			<CommonModule>crm_RetailCRMПовтИсп</CommonModule>
 			<WebService>crm_WebRetailCRM</WebService>
 			<FunctionalOption>ИспользоватьСоглашенияСКлиентами</FunctionalOption>
 			<FunctionalOption>ИспользоватьРучныеСкидкиВПродажах</FunctionalOption>
