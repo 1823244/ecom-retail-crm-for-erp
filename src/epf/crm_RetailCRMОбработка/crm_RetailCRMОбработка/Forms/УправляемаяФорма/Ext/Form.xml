@@ -1261,6 +1261,11 @@
 					<ToolTipRepresentation>ShowBottom</ToolTipRepresentation>
 					<ExtendedTooltip name="КаталогРасширеннаяПодсказка" id="56"/>
 					<ChildItems>
+						<Button name="ксп_ЗагрузитьКаталог" id="1352">
+							<Type>UsualButton</Type>
+							<CommandName>Form.Command.ксп_ЗагрузитьКаталог</CommandName>
+							<ExtendedTooltip name="ксп_ЗагрузитьКаталогРасширеннаяПодсказка" id="1353"/>
+						</Button>
 						<UsualGroup name="Идентификатор" id="583">
 							<Title>
 								<v8:item>
@@ -6144,6 +6149,21 @@
 				</v8:item>
 			</ToolTip>
 			<Action>СвязатьКонтЛица</Action>
+		</Command>
+		<Command name="ксп_ЗагрузитьКаталог" id="40">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить каталог (КСП)</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Ксп загрузить каталог</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ксп_ЗагрузитьКаталог</Action>
 		</Command>
 	</Commands>
 </Form>
