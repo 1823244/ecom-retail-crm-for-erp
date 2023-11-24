@@ -96,9 +96,9 @@
 		<Metadata name="Catalog.Организации" id="9fed4512-7f03-48c6-a629-dd866269178a" configVersion="cc19b7ff3de3b11599c1600a977a7334a4ce2aee"/>
 		<Metadata name="Catalog.Партнеры" id="4b368e95-0a67-48bd-bc71-e5a41dc2b9b9" configVersion="d35157ebf6c1e531681c219070d1ae228177394f"/>
 		<Metadata name="Catalog.Партнеры.Form.ФормаЭлемента" id="177539b0-7d73-477f-bec9-95fe548ca12b" configVersion="78176041ca9efbe51007692bcea33298dc8525f9"/>
-		<Metadata name="Catalog.Партнеры.Form.ФормаЭлемента.Form" id="177539b0-7d73-477f-bec9-95fe548ca12b.0" configVersion="2c843f471f571437a70991377c83ee277951a023"/>
+		<Metadata name="Catalog.Партнеры.Form.ФормаЭлемента.Form" id="177539b0-7d73-477f-bec9-95fe548ca12b.0" configVersion="e14627130454bffed9b8f906be36a9cd182cc4b3"/>
 		<Metadata name="Catalog.Партнеры.Form.ФормаЭлементаРеквизитыКонтрагента" id="faa96918-18c3-4ecd-9a68-776289b2a802" configVersion="dcdd72810878bdcfb3c65b6f8afda36f085660cc"/>
-		<Metadata name="Catalog.Партнеры.Form.ФормаЭлементаРеквизитыКонтрагента.Form" id="faa96918-18c3-4ecd-9a68-776289b2a802.0" configVersion="017df5335668275d07efe716aaaf0e8cf0609afa"/>
+		<Metadata name="Catalog.Партнеры.Form.ФормаЭлементаРеквизитыКонтрагента.Form" id="faa96918-18c3-4ecd-9a68-776289b2a802.0" configVersion="ea83b68b2e9b4c8822207143e6d470e1cb9ae87d"/>
 		<Metadata name="Catalog.Пользователи" id="91cfd40b-3f1d-4b2c-b32f-9484b3b63b7b" configVersion="c16435a0917e66a4b8b9cf76e954b74d7486732c"/>
 		<Metadata name="Catalog.Приоритеты" id="4e291b13-e42e-4c17-8201-046ffe620d8a" configVersion="b1cac200edfad320190eb228e6e4394235f502be"/>
 		<Metadata name="Catalog.ПричиныОтменыЗаказовКлиентов" id="77dc4856-0b94-4d7e-8e0a-2189283fc8f6" configVersion="57ec8f8cdfcfc7e0ed5e8150262db60758f572e8"/>
@@ -123,13 +123,15 @@
 		<Metadata name="CommonForm.crm_ВводНомераТелефона" id="be15e9c6-9a00-4753-bdd0-8ced73a572dd" configVersion="b2b08e4510c8760519462adf9640580d4c955cec"/>
 		<Metadata name="CommonForm.crm_ВводНомераТелефона.Form" id="be15e9c6-9a00-4753-bdd0-8ced73a572dd.0" configVersion="fc118e088e05dd0dc0d1bbf4c40dac65120e421b"/>
 		<Metadata name="CommonForm.crm_ВыборКлиента" id="fa369320-c0b2-4eb7-bf1c-55611d216ee6" configVersion="5365a048f2649cfe5637c3ce2eacd3600b2166ee"/>
-		<Metadata name="CommonForm.crm_ВыборКлиента.Form" id="fa369320-c0b2-4eb7-bf1c-55611d216ee6.0" configVersion="3032e8914ad8d813ccbfe617370076af57c89c44"/>
+		<Metadata name="CommonForm.crm_ВыборКлиента.Form" id="fa369320-c0b2-4eb7-bf1c-55611d216ee6.0" configVersion="f6431bcb82284cad6f4d190a0401a32f8c0aefff"/>
 		<Metadata name="CommonForm.crm_РасчетБаллов" id="d223a5dc-7e4c-4940-829d-93ce178ce605" configVersion="e886be397ca027796dc02a699579b597afe53a88"/>
 		<Metadata name="CommonForm.crm_РасчетБаллов.Form" id="d223a5dc-7e4c-4940-829d-93ce178ce605.0" configVersion="f89004b56fac1e029b1d2dc4d147a828c7e0adb0"/>
 		<Metadata name="CommonForm.crm_РегистрацияКлиента" id="227cf15a-1b1a-4919-92d1-14ae96be9cc8" configVersion="f80700890bc4ab2b6ec6e76e3965d3489d6e5a66"/>
-		<Metadata name="CommonForm.crm_РегистрацияКлиента.Form" id="227cf15a-1b1a-4919-92d1-14ae96be9cc8.0" configVersion="474593cdf62c969b72d8d0bf254e1d34c78e7097"/>
+		<Metadata name="CommonForm.crm_РегистрацияКлиента.Form" id="227cf15a-1b1a-4919-92d1-14ae96be9cc8.0" configVersion="5c5757ba7b3930bc87746da56828221fa173f5c4"/>
+		<Metadata name="CommonModule.crm_RetailCRMОбработка" id="a89b65d4-0c87-4645-aec4-58be5aae65bb" configVersion="c5adc0ebe2839c9d98eda1881182c93a15119055"/>
+		<Metadata name="CommonModule.crm_RetailCRMОбработка.Module" id="a89b65d4-0c87-4645-aec4-58be5aae65bb.0" configVersion="5ffde824a533faaea59b561ef9b52a57b17a58e3"/>
 		<Metadata name="CommonModule.crm_RetailCRMОбщий" id="6443ff0e-b0e6-4bdf-b628-dd9539614720" configVersion="881366f19ce7f7a7c198e016febf7bd10354a9fa"/>
-		<Metadata name="CommonModule.crm_RetailCRMОбщий.Module" id="6443ff0e-b0e6-4bdf-b628-dd9539614720.0" configVersion="2c4726e4c9beb07296230542fa2c80cbe0baf3f6"/>
+		<Metadata name="CommonModule.crm_RetailCRMОбщий.Module" id="6443ff0e-b0e6-4bdf-b628-dd9539614720.0" configVersion="fed0fde900ce0850815499a77e8f4a1bc8e3e214"/>
 		<Metadata name="CommonPicture.crm_RetailCRM" id="315fe3ae-b4ed-47e7-8845-f62947703841" configVersion="1c7973cc334836ae029a46da129cf61f50d13c7e"/>
 		<Metadata name="CommonPicture.crm_RetailCRM.Picture" id="315fe3ae-b4ed-47e7-8845-f62947703841.0" configVersion="e8fdf41efdd0293f54bb0fe0c6b02765b092bb44"/>
 		<Metadata name="CommonPicture.crm_RetailCRMlogo" id="4e1ed845-9b97-4a8b-81d4-47e9f3cfe084" configVersion="1b11610665e74dfb0d18da2500c19d29af26fcc7"/>
@@ -187,7 +189,7 @@
 		<Metadata name="CommonPicture.РМК_Цифра9" id="d86025c7-2b0d-487d-be50-1042dac7ad36" configVersion="2a63b4ed2f3465ec4e7bb47c794eb78d4ba75d64"/>
 		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="652431a4-bab8-4a8c-be23-f92a95aee7c2" configVersion="aaf706e5a1ec9766d93012da2b0bdcbbefeccf4e"/>
 		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="6393778f-c269-4ce5-877b-b1f7d9054b53" configVersion="3b90a72c149f7b61fb47ac5fca1dc3fdd8c5f658"/>
-		<Metadata name="Configuration.RetailCRMИнтеграция" id="0f95ef4a-3eb9-492d-b4a3-819a4764b17c" configVersion="fc07da74e6149edd8fb6e4c8b2c147b2f3d05ead"/>
+		<Metadata name="Configuration.RetailCRMИнтеграция" id="0f95ef4a-3eb9-492d-b4a3-819a4764b17c" configVersion="a694aafd70e42d41cb9bd00fd1b311a4bfcd3565"/>
 		<Metadata name="Configuration.RetailCRMИнтеграция.Logo" id="e7c35838-545e-4b73-8567-d25efa503a57.1" configVersion="6e7873093dbaa33b7577d50d6752bc45f1579a40"/>
 		<Metadata name="Configuration.RetailCRMИнтеграция.Splash" id="e7c35838-545e-4b73-8567-d25efa503a57.2" configVersion="1744ee37ab2a3df2774e5b1936c954659ec97183"/>
 		<Metadata name="Constant.ИспользоватьАвтоматическиеСкидкиВПродажах" id="60584654-152c-4a8f-977c-a5fbd61ec1cb" configVersion="05c483ad355c58ed30d3eabc86bb6b379c30197d"/>
@@ -201,121 +203,6 @@
 		<Metadata name="Constant.ИспользоватьСкладыВТабличнойЧастиДокументовПродажи" id="db0d715b-2d24-4382-a62f-7590140e4bf9" configVersion="b8d1bfd324769e0ce2b354aa04236be643e9fd99"/>
 		<Metadata name="Constant.ИспользоватьСоглашенияСКлиентами" id="fa5d5c7f-7ef8-424e-8a1c-5365a8622e57" configVersion="be81a98ac02e83d5c2cdfbf3ec4879e88b85b388"/>
 		<Metadata name="Constant.ИспользоватьУчетНДС" id="37d84bd0-6990-4979-8f73-cf05e3d41eb9" configVersion="0b2f9dd0e219ec77be7215b33ff2b3068a7d3892"/>
-		<Metadata name="DataProcessor.crm_RetailCRMОбработка" id="89cc1bc6-88a2-457a-bf56-17059b884222" configVersion="70aca779ddde20f2e1030824146fe73138c4ba56">
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТипыЦенДляОбмена.Attribute.ТипЦеныCRM" id="04c5da57-547a-45e7-ad65-e0c0c676c046"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгрузкаВозвратовОплатыВCRM" id="05eecdb4-d3dc-4a76-b5d5-01d5d1edea93"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеФормОплаты.Attribute.ТипОплатыCRM" id="062d425e-5132-4cdf-ba30-86b4e1e3f418"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ИспользованиеЗаказов" id="0af17510-b39f-425c-94f7-1d7528e7e6fb"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ПутьКНастройкам" id="0b820e29-924f-4e43-8fbb-2475a70d6ed1"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.СозданиеОплат" id="0bc2cbbc-7d1a-4c3c-bf96-6eefad39f977"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеДоставок" id="0c84e768-f98e-4167-89a1-838c2fe0ce74"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплатИз1С.Attribute.Терминал" id="0d40f59d-6bff-4f2b-a6b5-4ce3c17f1a80"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеДоставок.Attribute.Перевозчик" id="102c4bb6-8454-44ec-9421-6da29db2dd10"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ИдентификаторТовара" id="11ba34fa-12c4-4084-935b-a9f2d7754de5"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ИспользованиеТиповЦен" id="11daba5b-0dd4-48d7-a640-71ad1a81ba3a"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплат.Attribute.КодCRM" id="128b9a89-56cb-4718-97d8-251cbd8f2c8f"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеФормОплаты.Attribute.ФормаОплаты" id="149e12ea-3cfe-4c56-a128-51881622fb49"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинОрганизация.Attribute.Организация" id="15268c06-0a51-4a9c-a509-a5ffbd4e7575"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ИспользованиеХарактеристик" id="15adc509-7456-425d-9fc6-efc814d55a4c"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.СвязьМагазина" id="15cbb084-c00f-4ac2-90b3-e3246ddd1964"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинСклад" id="163e2787-1ebd-40cc-8532-53437144b084"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ПутьКФайлуВыгрузки" id="166a4652-f139-4052-be26-374792ba8128"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплат.Attribute.ТипОплатыCRM" id="174dbc88-4e09-4b34-935f-d483fce7e082"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.GUIDОрганизации" id="17e40394-c027-4f26-84b5-a3756410314e"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.Отмена" id="19abee00-2fe6-40aa-acd6-b0c1dff8c8ed"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабКонстанты.Attribute.Тип" id="245dcf69-ef6d-4e1e-b4d9-07cadebdda21"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ЗаказСоСкладаИПодЗаказ" id="2860b15b-f22c-4895-824c-74ad774af313"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплатИз1С.Attribute.ТипОплатыCRM" id="2ca8bbfb-749e-4a5f-8ea9-f8ffbb7b9b19"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.РаботаСРозницей" id="319f408a-493c-4789-a6d5-8f0a5ac00b63"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СтатусыСостояния.Attribute.СтатусCRM" id="3342a307-4b94-4628-a65b-40d7b017a943"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабКаталог" id="33711aeb-42fd-4437-ba89-dce4a5b848f8"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТипыЦенДляОбмена.Attribute.КодCRM" id="34ca2cb2-ea19-46eb-8c03-cd2f131e9faa"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабКонстанты.Attribute.Значение" id="35ccec41-f885-481a-8568-f1c5c43c1c89"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.НесколькоОрганизаций" id="36b97876-7370-4d7b-8784-281553b3a540"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгружатьЗаказы" id="3d0a0f3f-074f-40d6-b00b-0cfea224df40"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СтатусыСостояния.Attribute.Название" id="400a6b67-90cd-4cbf-96dc-05fc024f757c"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеМенеджеров.Attribute.Менеджер" id="45166b96-6009-4f46-aa3c-3bfe689565a8"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинСклад.Attribute.МагазинCRM" id="469d564b-68a6-4865-9a5c-5e35ea0b5876"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинОрганизация.Attribute.МагазинCRM" id="49d7aa84-e30c-4755-8af2-d25639b9e9d0"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.Эталонная" id="4adc7117-7a85-46d3-8b85-32e986fbce5b"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ИДПоследнихИзменений" id="4f781d2d-bf61-449f-9a4d-a190a35aa80a"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ПЛАктивна" id="4fb7e56c-9af0-4e58-83e0-5c26b58ed4f0"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ПутьКФайлу" id="510946d9-0491-408e-9987-03077bf2af76"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабКаталог.Attribute.Номенклатура" id="5287c3c1-0331-46f6-b26c-ac42a2a27ab9"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.packs_sinceId" id="5356a1c3-00dd-4dde-bf5c-ecd67ab3c77c"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.Примечание" id="5361bfba-118a-4024-b4ce-4d1cd9a468ab"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы" id="5368395b-6ccc-40d0-90ea-9673d0547fdb"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СтатусыСостояния" id="538ae5b5-fe73-4515-9dbd-bf2f88864e3c"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплатИз1С.Attribute.КодCRM" id="5491a8c4-8e6d-430e-a82d-cc12474ec668"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.idПЛ" id="564b9cd6-b806-410c-9bfc-f0ee9fe080cd"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СтатусыСостояния.Attribute.Состояние" id="57814b9e-e9ab-40b2-a69b-1a4b4efc7317"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабКаталогПоВидам" id="5bcee2bb-0505-4918-b875-c808ca76f787"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинСклад.Attribute.Склад" id="5d87aa76-d463-4051-bac2-44cc85282010"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеФормОплаты" id="5de3b212-1c8d-4a07-9463-54d5a635c764"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгружатьЧекВозврат" id="6241b9c7-349d-4a7d-aa72-0fd5067f6edb"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабКонстанты.Attribute.Название" id="626b5400-1e9d-4585-a1e3-370450f997f9"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ЗаказКакСчет" id="627997a3-6d6b-487a-a1dd-4becd3333180"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеМенеджеров.Attribute.МенеджерCRM" id="62defdca-92dc-4bb0-b941-c5c8cf38df1d"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СкладыДляОбмена" id="6392bb52-2516-4a5b-841c-c5326fe7b4fe"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеМенеджеров" id="65dd742d-3989-440c-b9f8-fe9baf6637a1"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинОрганизация.Attribute.КодМагазина" id="66e7b276-0418-45d1-a331-cc11679c084a"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгружатьЧек" id="7335a5bd-b327-467b-8b7f-8f56a471f66f"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгрузкаРеализаций" id="74193066-4155-4b83-ac30-980f1d902018"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.ВариантОбеспечения" id="74951156-c1cc-457f-9468-cb67fd3fcac3"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ПодтверждатьСМС" id="7af6c8b5-0b7b-492a-98e0-97154e7201d3"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабКонстанты" id="7f8c38b7-d368-44e6-a07c-93d55c326a1f"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СкладыДляОбмена.Attribute.СкладCRM" id="83c0d55e-2f08-4548-a09a-a0ae24c146af"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеДоставок.Attribute.ТипДоставкиCRM" id="8711319f-b226-46dc-b5fe-0fa8b1ea4dc5"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплатИз1С" id="8c1c2a8f-9cab-4694-abe2-4d5fc852a125"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабКаталогПоВидам.Attribute.Номенклатура" id="8d3e8ade-70a5-4e67-b2b2-4d783afa1380"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.offers_id" id="8dee94d8-2f53-4909-a233-d4ae98bb1722"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгружатьЧекРП" id="927dc762-113a-423f-a41c-63a18db4be3a"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгружатьТипыЦен" id="94faf519-4c67-48d4-a254-8f137259ee7e"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеФормОплаты.Attribute.КодCRM" id="96acfe3f-5bb4-48f9-be9d-183681e121e5"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.Статус1С" id="96ae8b4b-861b-4ad7-a417-21a1a2698875"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.Реализация" id="9ca6621d-a950-4b1d-9c48-bd302bb4c3c7"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ИерархияНоменклатуры" id="a081c7d0-9741-4e3f-abfb-cbdeb393d394"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплат.Attribute.Терминал" id="a6c43353-26ce-46a9-9ca5-ae777824666b"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТипыЦенДляОбмена.Attribute.ТипЦены" id="aafb2d98-4b3f-4880-b327-d030992dbf39"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ДатаАктуальности" id="abb7bfc0-4e3a-42c6-8d0c-8fb4e3f97693"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.СозданиеВозвратов" id="ac4d4782-340e-45c2-ba2f-ddbec587d8b2"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СкладыДляОбмена.Attribute.Склад" id="ad57001a-1252-4802-9ee8-feb930c195bf"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ПЛЗаблокирована" id="ad6c80e9-732d-48b0-abb5-3688a6b3fe0c"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ЗагрузкаБроней" id="b0d86e5a-cab1-4de5-ac3a-b03eda4e775d"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.НазваниеПЛ" id="b3ec9ef9-6221-4962-a911-619f11415b01"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинОрганизация" id="bdc1da67-45d7-42e9-897b-a3c9b413458e"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.СостояниеЗаказа" id="bdd49c21-6b24-4fa3-ad4e-094db3bbca44"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинСклад.Attribute.КодМагазина" id="c3a3fa2c-43ce-4875-93f3-5f7514090d7a"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ЗаказТолькоСоСклада" id="c5293677-05ef-4da9-8989-bf2fd3386cb8"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.Возврат" id="c57000e2-308a-4c15-9a76-4c4ac2ab8fcf"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.КодCRM" id="c5ab100d-a398-4e70-bdd7-f5fe05c2ec53"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ИспользованиеПЛ" id="c7c96fdd-5716-4ee2-9540-d31381b71a5c"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинОрганизация.Attribute.ВыгружатьОстатки" id="c7efc0b6-9b4c-4433-ad75-83d7fd6ff6a1"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплат.Attribute.Документ" id="c8416123-15d6-41dd-af9e-cff82971f3f0"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеДоставок.Attribute.КодCRM" id="cbd9c7d3-b154-470b-bfa2-94445137ef17"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгрузкаВозвратов" id="cfd9b7ed-7797-4ea0-aad0-c1bb640314eb"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.СозданиеРеализаций" id="d16e5a9d-cc7a-423b-95dd-c84b8032932f"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплатИз1С.Attribute.Документ" id="d68910a2-1775-45cc-b408-35b53150cd49"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеТиповОплат" id="d8d64576-6461-4c68-a4e9-bfb0f35c460b"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.МагазинОрганизация.Attribute.ВыгружатьТипыЦен" id="dac9dc7a-7b3e-4a94-83b1-587d1a64faa7"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ДатаНачалаВыгрузкиЗаказов" id="e0891a9f-1786-45ba-9283-08727d8f070b"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ЗагружатьЗаказы" id="e4c581e2-b946-4a20-960c-754b7ed15058"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.КорпоративныеКлиенты" id="e6a033ba-3456-4296-8bf7-f3cbcb4b8298"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.СкладскаяСистема" id="e711eb72-7dec-488b-9496-64e8a3407c7e"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТипыЦенДляОбмена" id="e8b3ad9b-c2e1-4046-8bde-96a91d95ba17"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.ТабСтатусы.Attribute.Название" id="eaa889ff-0f56-4508-9133-09547b20689f"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгрузкаОплатВCRM" id="f15bc523-32a9-4455-b7c8-56e3eecbb7ff"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ДатаОкончанияВыгрузкиЗаказов" id="f19109c0-3ebb-4a05-8589-e75c8a70b4c0"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СкладыДляОбмена.Attribute.КодCRM" id="f2fe3ad9-cf97-4aca-92b4-97e4f35dd3bb"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеМенеджеров.Attribute.ИД" id="f8feb7d9-bc93-4f19-b779-7452ddb46b98"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.TabularSection.СоответствиеДоставок.Attribute.СпособДоставки" id="fcec1bc1-1d01-4f9c-9a6e-ee2358d1bee6"/>
-			<Metadata name="DataProcessor.crm_RetailCRMОбработка.Attribute.ВыгружатьОстатки" id="ff781d28-29d1-4b74-adc5-ecddfcefbce8"/>
-		</Metadata>
-		<Metadata name="DataProcessor.crm_RetailCRMОбработка.Form.УправляемаяФорма" id="a2cba80c-1e8a-41ac-9858-01d58a2873cd" configVersion="5148e0119e8bfcc690fa4189ff3039740d1d4966"/>
-		<Metadata name="DataProcessor.crm_RetailCRMОбработка.Form.УправляемаяФорма.Form" id="a2cba80c-1e8a-41ac-9858-01d58a2873cd.0" configVersion="5b029b48bce8ad11b6443b73ebd82caa31fcf345"/>
-		<Metadata name="DataProcessor.crm_RetailCRMОбработка.Help" id="89cc1bc6-88a2-457a-bf56-17059b884222.1" configVersion="53cfd63f45df8173950bdf8745ef29c1e034e322"/>
-		<Metadata name="DataProcessor.crm_RetailCRMОбработка.ManagerModule" id="89cc1bc6-88a2-457a-bf56-17059b884222.2" configVersion="3e79aee1b3d4c280307790f06a6cfa91335842dc"/>
-		<Metadata name="DataProcessor.crm_RetailCRMОбработка.ObjectModule" id="89cc1bc6-88a2-457a-bf56-17059b884222.0" configVersion="0c127a0d61665091fbb573bd88c07ee23cde0843"/>
 		<Metadata name="DefinedType.Артикул" id="b7c0c622-d4c3-4bed-b90e-6df75f81a021" configVersion="ce0ccb4860df5f500740bb220b7a117598bfe58f"/>
 		<Metadata name="DefinedType.ДенежнаяСуммаЛюбогоЗнака" id="b43ac0e0-0837-4a0b-81fd-c3fbf86df1c0" configVersion="63773609b83552d44a4b3c8376f6b813bd5a5e60"/>
 		<Metadata name="DefinedType.ДенежнаяСуммаНеотрицательная" id="f4a44e42-fb22-4bac-a89d-72f882f5f512" configVersion="8a917c346486ba7a97698f8fffc6a6cfd082e9a9"/>
@@ -411,24 +298,24 @@
 			<Metadata name="Document.ОперацияПоПлатежнойКарте.Attribute.СуммаДокумента" id="f03f8309-d2a1-43b2-99a0-a25bfb7570a5"/>
 		</Metadata>
 		<Metadata name="Document.ОперацияПоПлатежнойКарте.Form.ФормаДокумента" id="f984ced0-3de7-4ce5-93fd-6e7cab2821cd" configVersion="4cb032a65dc362ec2ea58e272b8623c26507dbc5"/>
-		<Metadata name="Document.ОперацияПоПлатежнойКарте.Form.ФормаДокумента.Form" id="f984ced0-3de7-4ce5-93fd-6e7cab2821cd.0" configVersion="0c33540bf5b15baec906611835b771d9388f5f58"/>
+		<Metadata name="Document.ОперацияПоПлатежнойКарте.Form.ФормаДокумента.Form" id="f984ced0-3de7-4ce5-93fd-6e7cab2821cd.0" configVersion="70a23122858acbc6e6638a9e7f6a747d411d8bb5"/>
 		<Metadata name="Document.ПоступлениеБезналичныхДенежныхСредств" id="4b7fd2b1-3162-491c-905b-46fe7c4abf36" configVersion="2f1d643c78b638d598bb1c77943313ed8e0f373a">
 			<Metadata name="Document.ПоступлениеБезналичныхДенежныхСредств.TabularSection.РасшифровкаПлатежа" id="0cb5127f-1cef-45db-becd-a1f7a8d0d6ef"/>
 			<Metadata name="Document.ПоступлениеБезналичныхДенежныхСредств.TabularSection.РасшифровкаПлатежа.Attribute.ОснованиеПлатежа" id="63adb226-8e7e-473f-b67a-477765524f85"/>
 			<Metadata name="Document.ПоступлениеБезналичныхДенежныхСредств.Attribute.БанковскийСчет" id="99712f21-cdf9-4966-9bae-8da56139bddd"/>
 		</Metadata>
 		<Metadata name="Document.ПоступлениеБезналичныхДенежныхСредств.Form.ФормаДокумента" id="0346e501-c508-4237-82b7-f4cc2ab8a2f8" configVersion="7a510d2acb8cf53c8a6fe49cf093588af4fcf033"/>
-		<Metadata name="Document.ПоступлениеБезналичныхДенежныхСредств.Form.ФормаДокумента.Form" id="0346e501-c508-4237-82b7-f4cc2ab8a2f8.0" configVersion="bd9b68b380b66c11ae6f68d062dc61e9b69cf128"/>
+		<Metadata name="Document.ПоступлениеБезналичныхДенежныхСредств.Form.ФормаДокумента.Form" id="0346e501-c508-4237-82b7-f4cc2ab8a2f8.0" configVersion="ba8d26d6fc05394ede8ab91d5b647e400bd5d625"/>
 		<Metadata name="Document.ПриходныйКассовыйОрдер" id="3469b869-81a5-4a04-aa8f-5a08089dbf43" configVersion="f981eac139957fedfe77b16b062656348ef0dea5">
 			<Metadata name="Document.ПриходныйКассовыйОрдер.TabularSection.РасшифровкаПлатежа" id="472180fa-9849-4e22-b20b-4dbbd287f28e"/>
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.СуммаДокумента" id="8814fbf1-b8a4-432a-91de-2006449d4a69"/>
 			<Metadata name="Document.ПриходныйКассовыйОрдер.Attribute.Комментарий" id="dec8af15-6bd0-4801-8c0f-90b9830832c6"/>
 		</Metadata>
 		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента" id="3779ea31-e6c2-42b1-8a3e-840fca39339b" configVersion="8e4bf3d14a9fff593e5e9351248b086def30c43b"/>
-		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="3779ea31-e6c2-42b1-8a3e-840fca39339b.0" configVersion="3b667fe7705b1651e6164ea332c018ac8816187d"/>
+		<Metadata name="Document.ПриходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="3779ea31-e6c2-42b1-8a3e-840fca39339b.0" configVersion="113e40397ba4e98f0460894b9fe08b8ab57c48e8"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер" id="b92ea5ad-24fb-4b04-a033-c7f585a01bf8" configVersion="f3b6a6344d38af51be3c15db763e7e4539d5ae1f"/>
 		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента" id="3d70d114-2818-4c59-875b-77d0b414787f" configVersion="b22a28017d6bf519c8f322637306e259df07116a"/>
-		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="3d70d114-2818-4c59-875b-77d0b414787f.0" configVersion="2a12a8aa89b5889f9a7a18c1b54740e315bcc29d"/>
+		<Metadata name="Document.РасходныйКассовыйОрдер.Form.ФормаДокумента.Form" id="3d70d114-2818-4c59-875b-77d0b414787f.0" configVersion="5f8a92960e580d3be917a6b12c86828de70bc910"/>
 		<Metadata name="Document.РеализацияТоваровУслуг" id="4280960e-11e3-4526-a597-e1005d8e610d" configVersion="de8c687222042a8c68fe20fa535ca71c8335a0a9">
 			<Metadata name="Document.РеализацияТоваровУслуг.Attribute.ЗаказКлиента" id="6a9fd7bb-70b7-41be-a821-5613cae3207c"/>
 		</Metadata>
@@ -436,7 +323,7 @@
 		<Metadata name="Document.РеализацияТоваровУслуг.Form.ФормаДокумента.Form" id="bd8e1e35-a58e-4187-ac8c-c9be6f816692.0" configVersion="3a39dad96aff25a3bc88922e81f5572bf1adc5ea"/>
 		<Metadata name="Document.СписаниеБезналичныхДенежныхСредств" id="9c7079db-259f-45b8-bff1-0f790123e13c" configVersion="f98bb22e208630c5d212f62abd69923720aa8d1f"/>
 		<Metadata name="Document.СписаниеБезналичныхДенежныхСредств.Form.ФормаДокумента" id="7c745c6c-79dd-4d38-a5bd-8efd82c7f68b" configVersion="a5d5862a59b799a5ef1f0bc506caee9b9a6b83d4"/>
-		<Metadata name="Document.СписаниеБезналичныхДенежныхСредств.Form.ФормаДокумента.Form" id="7c745c6c-79dd-4d38-a5bd-8efd82c7f68b.0" configVersion="7f1ef26728ee5ca09cf6d1e18bc87c6e59fbabe7"/>
+		<Metadata name="Document.СписаниеБезналичныхДенежныхСредств.Form.ФормаДокумента.Form" id="7c745c6c-79dd-4d38-a5bd-8efd82c7f68b.0" configVersion="51e00eceaaa98e66b79c4003678068e47902090b"/>
 		<Metadata name="Document.ЧекККМ" id="640ea490-26a4-4fcb-b535-18a455fdd5a8" configVersion="a23019a1825af95ac0eb6d5fc9e4ba2a5df7a166">
 			<Metadata name="Document.ЧекККМ.Attribute.crm_Почта" id="079c9393-91a3-46c3-a3ed-bcf5e03754a4"/>
 			<Metadata name="Document.ЧекККМ.Attribute.crm_СписаноБонусов" id="1468dc20-bae5-4496-bda3-4e99c2aa516f"/>
@@ -446,7 +333,7 @@
 			<Metadata name="Document.ЧекККМ.Attribute.crm_Этап" id="f1f0f3a8-3844-406c-9d78-39f5a0cab7fa"/>
 		</Metadata>
 		<Metadata name="Document.ЧекККМ.Form.ФормаДокументаРМК" id="ccfa2b09-66e2-4ebd-acb9-096af8235bb5" configVersion="95b817e64eb1c4c47dce11872fcf85a815234c85"/>
-		<Metadata name="Document.ЧекККМ.Form.ФормаДокументаРМК.Form" id="ccfa2b09-66e2-4ebd-acb9-096af8235bb5.0" configVersion="56eab93fe221dcc30e01d7f1f0583fa17dacb5fe"/>
+		<Metadata name="Document.ЧекККМ.Form.ФормаДокументаРМК.Form" id="ccfa2b09-66e2-4ebd-acb9-096af8235bb5.0" configVersion="8829c4b2ec095f7e285dbfc14e9ae3e23114542b"/>
 		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыНаличными" id="7c027ecb-ac4e-409e-898b-3a747bd11089" configVersion="9b0c04ad964ca957092517d7830747029c079af2"/>
 		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыНаличными.Form" id="7c027ecb-ac4e-409e-898b-3a747bd11089.0" configVersion="870599ebce5a32914b0e9a591557dce31e6ffc4f"/>
 		<Metadata name="Document.ЧекККМ.ObjectModule" id="640ea490-26a4-4fcb-b535-18a455fdd5a8.0" configVersion="8c40515a47541a71727c161536bcb24a3d9fb2e8"/>
@@ -645,6 +532,6 @@
 			<Metadata name="WebService.crm_WebRetailCRM.Operation.EditOrder.Parameter.Order" id="02d98562-9918-4a99-8a02-bfc214d955fa"/>
 			<Metadata name="WebService.crm_WebRetailCRM.Operation.EditOrder" id="bdf3345c-4a03-415d-8a35-93b1274bfeef"/>
 		</Metadata>
-		<Metadata name="WebService.crm_WebRetailCRM.Module" id="736b8eac-aff4-4942-a764-c90d92152c5a.0" configVersion="a70f0e98d8e922d9adcc7a0ac35c87b74475d0f2"/>
+		<Metadata name="WebService.crm_WebRetailCRM.Module" id="736b8eac-aff4-4942-a764-c90d92152c5a.0" configVersion="da4e36e5efe564046895628483e9f2d3a1913eea"/>
 	</ConfigVersions>
 </ConfigDumpInfo>

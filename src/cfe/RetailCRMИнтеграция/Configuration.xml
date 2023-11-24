@@ -108,6 +108,7 @@
 			<CommonPicture>ЗаполнитьПоШаблону</CommonPicture>
 			<CommonPicture>Отчеты</CommonPicture>
 			<CommonModule>crm_RetailCRMОбщий</CommonModule>
+			<CommonModule>crm_RetailCRMОбработка</CommonModule>
 			<WebService>crm_WebRetailCRM</WebService>
 			<FunctionalOption>ИспользоватьСоглашенияСКлиентами</FunctionalOption>
 			<FunctionalOption>ИспользоватьРучныеСкидкиВПродажах</FunctionalOption>
@@ -203,7 +204,6 @@
 			<Enum>СтатусыДействияВидовЦен</Enum>
 			<Enum>ТипыПлатежныхДокументов</Enum>
 			<Enum>ТипыКомиссииЗаБанковскиеПереводы</Enum>
-			<DataProcessor>crm_RetailCRMОбработка</DataProcessor>
 			<InformationRegister>ДополнительныеСведения</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>СостоянияЗаказовКлиентов</InformationRegister>

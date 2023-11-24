@@ -19,7 +19,7 @@
 				<xr:LoadTransparent>true</xr:LoadTransparent>
 			</Picture>
 			<Content>
-				<xr:Item xsi:type="xr:MDObjectRef">DataProcessor.crm_RetailCRMОбработка</xr:Item>
+				<xr:Item xsi:type="xr:MDObjectRef">89cc1bc6-88a2-457a-bf56-17059b884222</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">WebService.crm_WebRetailCRM</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">Catalog.crm_Организации</xr:Item>
 				<xr:Item xsi:type="xr:MDObjectRef">CommonPicture.crm_Доставка</xr:Item>
