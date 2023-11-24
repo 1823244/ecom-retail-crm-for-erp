@@ -2258,7 +2258,7 @@
 														<v8:content>Самовывоз (с нашего склада)</v8:content>
 													</v8:item>
 												</Presentation>
-												<Value xsi:type="xr:DesignTimeRef">9dcc2549-b6ea-460b-bfeb-3511c45c44fc.054f6161-d7f9-40d4-b33a-590353c3d81e</Value>
+												<Value xsi:type="xr:DesignTimeRef">7b29736a-14f3-417e-99b5-882e5e01bc78.f442a653-b32b-4be9-9b5e-4a5abb206d85</Value>
 											</xr:Value>
 										</xr:Item>
 										<xr:Item>
@@ -2271,7 +2271,7 @@
 														<v8:content>Наша транспортная служба до клиента</v8:content>
 													</v8:item>
 												</Presentation>
-												<Value xsi:type="xr:DesignTimeRef">9dcc2549-b6ea-460b-bfeb-3511c45c44fc.238dd2e2-1597-466a-afa6-c696f0e8b350</Value>
+												<Value xsi:type="xr:DesignTimeRef">7b29736a-14f3-417e-99b5-882e5e01bc78.3c09e30d-ef7d-4e10-9b7e-c3d470857e36</Value>
 											</xr:Value>
 										</xr:Item>
 										<xr:Item>
@@ -2284,7 +2284,7 @@
 														<v8:content>Наша транспортная служба до перевозчика</v8:content>
 													</v8:item>
 												</Presentation>
-												<Value xsi:type="xr:DesignTimeRef">9dcc2549-b6ea-460b-bfeb-3511c45c44fc.ad12933d-58bc-4101-8e88-8566fca77720</Value>
+												<Value xsi:type="xr:DesignTimeRef">7b29736a-14f3-417e-99b5-882e5e01bc78.066e8fb0-3813-4481-b4bf-edfafab4aed9</Value>
 											</xr:Value>
 										</xr:Item>
 										<xr:Item>
@@ -2297,7 +2297,7 @@
 														<v8:content>Перевозчик (с нашего склада)</v8:content>
 													</v8:item>
 												</Presentation>
-												<Value xsi:type="xr:DesignTimeRef">9dcc2549-b6ea-460b-bfeb-3511c45c44fc.45ea0cbe-4f21-4991-8505-637b84130de3</Value>
+												<Value xsi:type="xr:DesignTimeRef">7b29736a-14f3-417e-99b5-882e5e01bc78.b983ffd7-6fee-4341-823c-bc970e783c64</Value>
 											</xr:Value>
 										</xr:Item>
 										<xr:Item>
@@ -2310,7 +2310,7 @@
 														<v8:content>На усмотрение транспортной службы</v8:content>
 													</v8:item>
 												</Presentation>
-												<Value xsi:type="xr:DesignTimeRef">9dcc2549-b6ea-460b-bfeb-3511c45c44fc.9b87accd-b081-4535-9754-a11d2efb2154</Value>
+												<Value xsi:type="xr:DesignTimeRef">7b29736a-14f3-417e-99b5-882e5e01bc78.c07693f6-6c15-46b9-8ea5-6560cf995152</Value>
 											</xr:Value>
 										</xr:Item>
 									</ChoiceList>
