@@ -4303,6 +4303,50 @@
 						</Button>
 					</ChildItems>
 				</Page>
+				<Page name="Разработка" id="1354">
+					<Title>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Разработка</v8:content>
+						</v8:item>
+					</Title>
+					<ToolTip>
+						<v8:item>
+							<v8:lang>ru</v8:lang>
+							<v8:content>Разработка</v8:content>
+						</v8:item>
+					</ToolTip>
+					<ExtendedTooltip name="РазработкаРасширеннаяПодсказка" id="1355"/>
+					<ChildItems>
+						<Button name="ЗагрузитьЗаказИзJSON" id="1359">
+							<Type>UsualButton</Type>
+							<CommandName>Form.Command.ЗагрузитьЗаказИзJSON</CommandName>
+							<ExtendedTooltip name="ЗагрузитьЗаказИзJSONРасширеннаяПодсказка" id="1360"/>
+						</Button>
+						<InputField name="ЗаказРезультат" id="1361">
+							<DataPath>ЗаказРезультат</DataPath>
+							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+							<ContextMenu name="ЗаказРезультатКонтекстноеМеню" id="1362"/>
+							<ExtendedTooltip name="ЗаказРезультатРасширеннаяПодсказка" id="1363"/>
+						</InputField>
+						<LabelDecoration name="Декорация6" id="1364">
+							<Title formatted="false">
+								<v8:item>
+									<v8:lang>ru</v8:lang>
+									<v8:content>Здесь нужен чистый объект json, без тэгов success and order! Скобки массива добавляются программно</v8:content>
+								</v8:item>
+							</Title>
+							<ContextMenu name="Декорация6КонтекстноеМеню" id="1365"/>
+							<ExtendedTooltip name="Декорация6РасширеннаяПодсказка" id="1366"/>
+						</LabelDecoration>
+						<TextDocumentField name="ЗаказJSON" id="1356">
+							<DataPath>ЗаказJSON</DataPath>
+							<Height>5</Height>
+							<ContextMenu name="ЗаказJSONКонтекстноеМеню" id="1357"/>
+							<ExtendedTooltip name="ЗаказJSONРасширеннаяПодсказка" id="1358"/>
+						</TextDocumentField>
+					</ChildItems>
+				</Page>
 			</ChildItems>
 		</Pages>
 		<UsualGroup name="Кнопки" id="7">
@@ -5548,6 +5592,39 @@
 				</Column>
 			</Columns>
 		</Attribute>
+		<Attribute name="ЗаказJSON" id="23">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заказ JSON</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+			<Save>
+				<Field>ЗаказJSON</Field>
+			</Save>
+		</Attribute>
+		<Attribute name="ЗаказРезультат" id="24">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Заказ результат</v8:content>
+				</v8:item>
+			</Title>
+			<Type>
+				<v8:Type>xs:string</v8:Type>
+				<v8:StringQualifiers>
+					<v8:Length>0</v8:Length>
+					<v8:AllowedLength>Variable</v8:AllowedLength>
+				</v8:StringQualifiers>
+			</Type>
+		</Attribute>
 	</Attributes>
 	<Commands>
 		<Command name="СоздатьКонстанты" id="3">
@@ -6164,6 +6241,21 @@
 				</v8:item>
 			</ToolTip>
 			<Action>ксп_ЗагрузитьКаталог</Action>
+		</Command>
+		<Command name="ЗагрузитьЗаказИзJSON" id="41">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить заказ из JSON</v8:content>
+				</v8:item>
+			</Title>
+			<ToolTip>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Загрузить заказ из JSON</v8:content>
+				</v8:item>
+			</ToolTip>
+			<Action>ЗагрузитьЗаказИзJSON</Action>
 		</Command>
 	</Commands>
 </Form>
