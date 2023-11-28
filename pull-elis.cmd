@@ -1,1 +1,1 @@
-c:\user\koderline2\downloads\portablegit\bin\git pull
+c:\users\koderline2\downloads\portablegit\bin\git pull
