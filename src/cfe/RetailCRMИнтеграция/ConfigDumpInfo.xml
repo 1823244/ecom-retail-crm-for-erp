@@ -289,7 +289,7 @@
 			<Metadata name="Document.ЗаказКлиента.TabularSection.Товары.Attribute.СрокПоставки" id="fef5dbec-9932-457e-b164-cfbca052685b"/>
 		</Metadata>
 		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента" id="70850f1e-b795-41e3-8c97-8da0e2e5f5ee" configVersion="67d3b811b9d7e5fd49614e99179730e0a47a1efb"/>
-		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента.Form" id="70850f1e-b795-41e3-8c97-8da0e2e5f5ee.0" configVersion="7c10b6295059dc715bc2c0822da4457d2dac719a"/>
+		<Metadata name="Document.ЗаказКлиента.Form.ФормаДокумента.Form" id="70850f1e-b795-41e3-8c97-8da0e2e5f5ee.0" configVersion="fa8da3f99a92c0e0e24a86a37a8cd17b8f034e75"/>
 		<Metadata name="Document.ЗаказКлиента.ObjectModule" id="6839a0d2-6147-4aef-928b-8e3a6733dfe4.0" configVersion="06ea410ca3ad591b6a6853aea44d2d77a8effbac"/>
 		<Metadata name="Document.ОперацияПоПлатежнойКарте" id="97c2ecbc-da05-4f41-902d-c536102273bc" configVersion="dd6e659c32a160025df2bb16073c529bb618f2ce">
 			<Metadata name="Document.ОперацияПоПлатежнойКарте.TabularSection.РасшифровкаПлатежа.Attribute.Сумма" id="2fa4cbd8-954e-4022-951b-44cc3d5ec826"/>
@@ -338,9 +338,9 @@
 		<Metadata name="Document.ЧекККМ.Form.ФормаДокументаРМК.Form" id="ccfa2b09-66e2-4ebd-acb9-096af8235bb5.0" configVersion="c10b23c629b60e6c965cde0caf77a421f8752ca1"/>
 		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыНаличными" id="7c027ecb-ac4e-409e-898b-3a747bd11089" configVersion="9b0c04ad964ca957092517d7830747029c079af2"/>
 		<Metadata name="Document.ЧекККМ.Form.ФормаОплатыНаличными.Form" id="7c027ecb-ac4e-409e-898b-3a747bd11089.0" configVersion="80759e68571eb30e47e7fa1fd576c6a2d36ec31b"/>
-		<Metadata name="Document.ЧекККМ.ObjectModule" id="640ea490-26a4-4fcb-b535-18a455fdd5a8.0" configVersion="bd556f0f021709ead18c58eefe553c04edc7d9dd"/>
+		<Metadata name="Document.ЧекККМ.ObjectModule" id="640ea490-26a4-4fcb-b535-18a455fdd5a8.0" configVersion="17631c2c292ba9b98ded8f14bc5c5e4b8b591721"/>
 		<Metadata name="Document.ЧекККМВозврат" id="e9e8f508-94a0-46f9-b054-d9b45effb66d" configVersion="1278d755fa78153a74addac9c3e7f5ca9a670e3d"/>
-		<Metadata name="Document.ЧекККМВозврат.ObjectModule" id="e9e8f508-94a0-46f9-b054-d9b45effb66d.0" configVersion="2f5f7b0049698a212d932d81b3b8ae55655ae6eb"/>
+		<Metadata name="Document.ЧекККМВозврат.ObjectModule" id="e9e8f508-94a0-46f9-b054-d9b45effb66d.0" configVersion="e67601c112f60a1356bdbf8b422be5c684aa323d"/>
 		<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры" id="6aa86bab-1e07-4886-b10d-90c4c758ac60" configVersion="429bbc1c01da05c96b6383bcf7c32473e65577ec">
 			<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры.EnumValue.ОбщиеСДругимВидомНоменклатуры" id="0baee387-bd0b-4f32-81a5-1a736c1298e3"/>
 			<Metadata name="Enum.ВариантыИспользованияХарактеристикНоменклатуры.EnumValue.ОбщиеДляВидаНоменклатуры" id="88b6a1aa-1c55-4542-adf4-f7ef61dba081"/>
