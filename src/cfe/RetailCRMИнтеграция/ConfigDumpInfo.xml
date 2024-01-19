@@ -129,7 +129,7 @@
 		<Metadata name="CommonForm.crm_РегистрацияКлиента" id="227cf15a-1b1a-4919-92d1-14ae96be9cc8" configVersion="f80700890bc4ab2b6ec6e76e3965d3489d6e5a66"/>
 		<Metadata name="CommonForm.crm_РегистрацияКлиента.Form" id="227cf15a-1b1a-4919-92d1-14ae96be9cc8.0" configVersion="b1f4da429e7d367ca36cedb99d20e961180a5a93"/>
 		<Metadata name="CommonModule.crm_RetailCRMОбработка" id="a89b65d4-0c87-4645-aec4-58be5aae65bb" configVersion="c5adc0ebe2839c9d98eda1881182c93a15119055"/>
-		<Metadata name="CommonModule.crm_RetailCRMОбработка.Module" id="a89b65d4-0c87-4645-aec4-58be5aae65bb.0" configVersion="5ffde824a533faaea59b561ef9b52a57b17a58e3"/>
+		<Metadata name="CommonModule.crm_RetailCRMОбработка.Module" id="a89b65d4-0c87-4645-aec4-58be5aae65bb.0" configVersion="ddfb5bbf789d1eacaecc09195a14ef13de068b17"/>
 		<Metadata name="CommonModule.crm_RetailCRMОбщий" id="6443ff0e-b0e6-4bdf-b628-dd9539614720" configVersion="881366f19ce7f7a7c198e016febf7bd10354a9fa"/>
 		<Metadata name="CommonModule.crm_RetailCRMОбщий.Module" id="6443ff0e-b0e6-4bdf-b628-dd9539614720.0" configVersion="d6e864dd9f9402c7ea12cef561b95e057daa6bed"/>
 		<Metadata name="CommonModule.crm_RetailCRMПовтИсп" id="3195c300-dfcb-45e2-a95d-72fcfd5d2336" configVersion="d54dab92b8a07d1018b43afd97386dd24979f121"/>
@@ -191,7 +191,7 @@
 		<Metadata name="CommonPicture.РМК_Цифра9" id="d86025c7-2b0d-487d-be50-1042dac7ad36" configVersion="2a63b4ed2f3465ec4e7bb47c794eb78d4ba75d64"/>
 		<Metadata name="CommonPicture.СерииНоменклатурыКолонкаСтатусов" id="652431a4-bab8-4a8c-be23-f92a95aee7c2" configVersion="aaf706e5a1ec9766d93012da2b0bdcbbefeccf4e"/>
 		<Metadata name="CommonPicture.СтатусыУказанияСерий" id="6393778f-c269-4ce5-877b-b1f7d9054b53" configVersion="3b90a72c149f7b61fb47ac5fca1dc3fdd8c5f658"/>
-		<Metadata name="Configuration.RetailCRMИнтеграция" id="0f95ef4a-3eb9-492d-b4a3-819a4764b17c" configVersion="de742483fc0000facfc8b19171d4475d30f9f759"/>
+		<Metadata name="Configuration.RetailCRMИнтеграция" id="0f95ef4a-3eb9-492d-b4a3-819a4764b17c" configVersion="620107f3684364d9e915d4c2135be9a18ff8c788"/>
 		<Metadata name="Configuration.RetailCRMИнтеграция.Logo" id="e7c35838-545e-4b73-8567-d25efa503a57.1" configVersion="6e7873093dbaa33b7577d50d6752bc45f1579a40"/>
 		<Metadata name="Configuration.RetailCRMИнтеграция.Splash" id="e7c35838-545e-4b73-8567-d25efa503a57.2" configVersion="1744ee37ab2a3df2774e5b1936c954659ec97183"/>
 		<Metadata name="Constant.ИспользоватьАвтоматическиеСкидкиВПродажах" id="60584654-152c-4a8f-977c-a5fbd61ec1cb" configVersion="05c483ad355c58ed30d3eabc86bb6b379c30197d"/>
@@ -507,6 +507,15 @@
 		<Metadata name="FunctionalOption.ИспользоватьСкладыВТабличнойЧастиДокументовПродажи" id="1bf8de24-8574-4302-ab29-3f08fdbadc45" configVersion="22b6ac9180c84297b0d4734ebec907c559157b49"/>
 		<Metadata name="FunctionalOption.ИспользоватьСоглашенияСКлиентами" id="56e12f99-692c-4c85-bd05-1040476b3e0f" configVersion="1373d21c02b1f9490448c1d589d459591d6d9eb9"/>
 		<Metadata name="FunctionalOption.ИспользоватьУчетНДС" id="e8cf11d4-e6c3-4a07-be9b-07cd930fc48a" configVersion="bb7bdfc6eea3e17dce52bb0efb14958aa2577b23"/>
+		<Metadata name="InformationRegister.crm_ИсходныеДанныеЗаказов" id="cf6882f3-7b6b-4077-96ba-1741083937f4" configVersion="98b5046fd64b100a33ac691727f99c2ba16e7259">
+			<Metadata name="InformationRegister.crm_ИсходныеДанныеЗаказов.Resource.Реализация" id="287f1ca5-24e4-4032-a494-bae1a68d4e28"/>
+			<Metadata name="InformationRegister.crm_ИсходныеДанныеЗаказов.Resource.json" id="6c7c2adb-50e7-4a95-93f6-0d52cf244228"/>
+			<Metadata name="InformationRegister.crm_ИсходныеДанныеЗаказов.Resource.status" id="a45dd858-a5b9-4343-a41c-1580c7d5ecf8"/>
+			<Metadata name="InformationRegister.crm_ИсходныеДанныеЗаказов.Resource.ЗаказКлиента" id="ced4e080-ca02-4ff8-bf29-32affb79b450"/>
+			<Metadata name="InformationRegister.crm_ИсходныеДанныеЗаказов.Dimension.id" id="d5c21e1e-f6b6-4510-890b-eeb918ea18d1"/>
+			<Metadata name="InformationRegister.crm_ИсходныеДанныеЗаказов.Attribute.ДатаЗаписи" id="f31adfef-e979-4a3c-8b86-fecf0d704e1b"/>
+			<Metadata name="InformationRegister.crm_ИсходныеДанныеЗаказов.Dimension.site" id="f95c3042-7210-4d83-a10c-a260af7f0f01"/>
+		</Metadata>
 		<Metadata name="InformationRegister.ДополнительныеСведения" id="2d494706-b98a-4691-8055-aa741d124e29" configVersion="227ccdcf507fd52e3cdcc70ad151cde85e791368">
 			<Metadata name="InformationRegister.ДополнительныеСведения.Resource.Значение" id="9a1428bb-a636-447f-ad72-bef45d0fe796"/>
 			<Metadata name="InformationRegister.ДополнительныеСведения.Dimension.Объект" id="c46f7eb8-5525-40c6-8a79-f6c623c0937d"/>
@@ -529,7 +538,7 @@
 		<Metadata name="StyleItem.ФонУправляющегоПоля" id="3aaf64fe-dc9c-4a9e-ae56-9a88fcdba001" configVersion="3876f81db60a97664656480f3eddc5c076717de2"/>
 		<Metadata name="StyleItem.ЦветТекстаПроблема" id="579f9be9-2b32-4b0c-b862-d75ff90a9fa8" configVersion="cb2ca889b5c198863d1d1ef998d5f3c53da03b3a"/>
 		<Metadata name="StyleItem.ЦветФонаВыделения" id="7d005f0e-2b4d-403c-8833-3a75bf4aa0e0" configVersion="98ee2906579354094d926d72e9199d97fb4e04b8"/>
-		<Metadata name="Subsystem.crm_RetailCRMИнтеграция" id="61645ff0-c23e-4d1d-bcbe-724185ad8bc1" configVersion="249d787520e6fbd26a86afcd04f4e9d49d276bfc"/>
+		<Metadata name="Subsystem.crm_RetailCRMИнтеграция" id="61645ff0-c23e-4d1d-bcbe-724185ad8bc1" configVersion="b7a1183d1df0fc1e86141445c488b82213bd48fd"/>
 		<Metadata name="WebService.crm_WebRetailCRM" id="736b8eac-aff4-4942-a764-c90d92152c5a" configVersion="ae86e2eee8938d6191689e1c5ef49ba55f594b97">
 			<Metadata name="WebService.crm_WebRetailCRM.Operation.EditOrder.Parameter.Order" id="02d98562-9918-4a99-8a02-bfc214d955fa"/>
 			<Metadata name="WebService.crm_WebRetailCRM.Operation.EditOrder" id="bdf3345c-4a03-415d-8a35-93b1274bfeef"/>

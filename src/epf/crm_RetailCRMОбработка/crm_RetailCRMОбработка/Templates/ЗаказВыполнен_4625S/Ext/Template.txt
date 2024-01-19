@@ -1,0 +1,347 @@
+﻿{
+    "success": true,
+    "order": {
+        "slug": 4625,
+        "bonusesCreditTotal": 0,
+        "bonusesChargeTotal": 0,
+        "id": 4625,
+        "number": "4625S",
+        "externalId": "156031",
+        "orderType": "main",
+        "orderMethod": "shopping-cart",
+        "privilegeType": "none",
+        "countryIso": "RU",
+        "createdAt": "2023-06-22 09:09:04",
+        "statusUpdatedAt": "2023-10-04 15:06:49",
+        "summ": 7158,
+        "totalSumm": 7158,
+        "prepaySum": 7158,
+        "purchaseSumm": 0,
+        "markDatetime": "2023-06-22 09:09:04",
+        "lastName": "Зверькова",
+        "firstName": "Светлана",
+        "phone": "79025643558",
+        "email": "azverkov1964@gmail.com",
+        "call": false,
+        "expired": false,
+        "managerId": 27,
+        "customer": {
+            "type": "customer",
+            "id": 292593,
+            "externalId": "294224",
+            "isContact": false,
+            "createdAt": "2023-05-05 11:55:35",
+            "managerId": 23,
+            "vip": false,
+            "bad": false,
+            "site": "elis",
+            "contragent": {
+                "contragentType": "individual"
+            },
+            "tags": [],
+            "customFields": {
+                "mindboxid": "2670263",
+                "mindboxlink": "https:\\/\\/elis.mindbox.ru\\/newcustomers\\/2670263\\/view\\/personal-info",
+                "balance_totalvalue": "1867",
+                "balance_blockedvalue": "870",
+                "balance_availablevalue": "997"
+            },
+            "marginSumm": 20755,
+            "totalSumm": 22155,
+            "averageSumm": 7385,
+            "ordersCount": 3,
+            "costSumm": 1400,
+            "address": {
+                "id": 3025,
+                "index": "670050",
+                "countryIso": "RU",
+                "region": "Бурятия Республика",
+                "regionId": 86,
+                "city": "Улан-Удэ",
+                "cityId": 847,
+                "cityType": "г.",
+                "street": "Туполева",
+                "streetId": 995786,
+                "streetType": "ул.",
+                "building": "19",
+                "flat": "70",
+                "text": "ул. Туполева, д. 19, кв.\\/офис 70"
+            },
+            "segments": [],
+            "firstName": "Светлана",
+            "lastName": "Зверькова",
+            "patronymic": "",
+            "sex": "female",
+            "presumableSex": "female",
+            "email": "azverkov1964@gmail.com",
+            "phones": [
+                {
+                    "number": "+79025643558"
+                }
+            ],
+            "birthday": "1984-08-12",
+            "mgCustomers": []
+        },
+        "contact": {
+            "type": "customer",
+            "id": 292593,
+            "externalId": "294224",
+            "isContact": false,
+            "createdAt": "2023-05-05 11:55:35",
+            "managerId": 23,
+            "vip": false,
+            "bad": false,
+            "site": "elis",
+            "contragent": {
+                "contragentType": "individual"
+            },
+            "tags": [],
+            "customFields": {
+                "mindboxid": "2670263",
+                "mindboxlink": "https:\\/\\/elis.mindbox.ru\\/newcustomers\\/2670263\\/view\\/personal-info",
+                "balance_totalvalue": "1867",
+                "balance_blockedvalue": "870",
+                "balance_availablevalue": "997"
+            },
+            "marginSumm": 20755,
+            "totalSumm": 22155,
+            "averageSumm": 7385,
+            "ordersCount": 3,
+            "costSumm": 1400,
+            "address": {
+                "id": 3025,
+                "index": "670050",
+                "countryIso": "RU",
+                "region": "Бурятия Республика",
+                "regionId": 86,
+                "city": "Улан-Удэ",
+                "cityId": 847,
+                "cityType": "г.",
+                "street": "Туполева",
+                "streetId": 995786,
+                "streetType": "ул.",
+                "building": "19",
+                "flat": "70",
+                "text": "ул. Туполева, д. 19, кв.\\/офис 70"
+            },
+            "segments": [],
+            "firstName": "Светлана",
+            "lastName": "Зверькова",
+            "patronymic": "",
+            "sex": "female",
+            "presumableSex": "female",
+            "email": "azverkov1964@gmail.com",
+            "phones": [
+                {
+                    "number": "+79025643558"
+                }
+            ],
+            "birthday": "1984-08-12",
+            "mgCustomers": []
+        },
+        "contragent": {
+            "contragentType": "individual"
+        },
+        "delivery": {
+            "code": "pfs",
+            "integrationCode": "pfs",
+            "data": {
+                "locked": true,
+                "tariff": "2501",
+                "tariffName": "Курьерская доставка [e-comlog]",
+                "payerType": "sender",
+                "cost": 700,
+                "extraData": [],
+                "itemDeclaredValues": [],
+                "packages": []
+            },
+            "cost": 0,
+            "netCost": 700,
+            "date": "2023-08-16",
+            "time": {
+                "custom": "16:5:23"
+            },
+            "address": {
+                "index": "670050",
+                "countryIso": "RU",
+                "region": "Бурятия Республика",
+                "regionId": 86,
+                "city": "Улан-Удэ",
+                "cityId": 847,
+                "cityType": "г.",
+                "street": "Туполева",
+                "streetId": 995786,
+                "streetType": "ул.",
+                "building": "19",
+                "flat": "70",
+                "text": "ул. Туполева, д. 19, кв.\\/офис 70"
+            }
+        },
+        "site": "elis",
+        "status": "complete",
+        "items": [
+            {
+                "bonusesChargeTotal": 0,
+                "bonusesCreditTotal": 0,
+                "markingCodes": [],
+                "id": 6963,
+                "initialPrice": 3499,
+                "discounts": [
+                    {
+                        "type": "manual_product",
+                        "amount": 862
+                    }
+                ],
+                "discountTotal": 862,
+                "prices": [
+                    {
+                        "price": 2637,
+                        "quantity": 1
+                    }
+                ],
+                "vatRate": "20.00",
+                "createdAt": "2023-06-22 09:09:04",
+                "quantity": 1,
+                "status": "sold",
+                "comment": "Начисление баллов 3% Сайт_23.04( 104)",
+                "offer": {
+                    "displayName": "Футболка трикотажная в полоску (46)",
+                    "id": 51099,
+                    "externalId": "2014176",
+                    "xmlId": "44d24aa3-1703-11ed-9ddb-0050568e2ffe#016289c7-3409-11ed-9ddb-0050568e2ffe",
+                    "name": "Футболка трикотажная в полоску",
+                    "article": "TS0024K",
+                    "vatRate": "20.00",
+                    "properties": {
+                        "sale": "SALE",
+                        "size": "46",
+                        "gender": "female",
+                        "vendor": "LALIS",
+                        "name_1c": "Блузка женская TS0024K 3Л4086 Сине-белый",
+                        "oldprice": "3499",
+                        "colorsite": "Сине-белый",
+                        "collection": "SUMMER CHARM",
+                        "structuresite": "Вискоза - 95%, Эластан - 5%",
+                        "collectionsite": "Lalis Лето 2023"
+                    },
+                    "unit": {
+                        "code": "pc",
+                        "name": "Штука",
+                        "sym": "шт."
+                    }
+                },
+                "properties": {
+                    "carrierStatusDate": {
+                        "code": "carrierStatusDate",
+                        "name": "Дата доставки",
+                        "value": "16.08.2023 16:5:23"
+                    },
+                    "sendDate": {
+                        "code": "sendDate",
+                        "name": "Дата отправки",
+                        "value": "22.06.2023 23:32:00"
+                    }
+                },
+                "purchasePrice": 0,
+                "ordering": 0
+            },
+            {
+                "bonusesChargeTotal": 0,
+                "bonusesCreditTotal": 0,
+                "markingCodes": [],
+                "id": 6964,
+                "initialPrice": 5999,
+                "discounts": [
+                    {
+                        "type": "manual_product",
+                        "amount": 1478
+                    }
+                ],
+                "discountTotal": 1478,
+                "prices": [
+                    {
+                        "price": 4521,
+                        "quantity": 1
+                    }
+                ],
+                "vatRate": "20.00",
+                "createdAt": "2023-06-22 09:09:04",
+                "quantity": 1,
+                "status": "sold",
+                "comment": "Начисление баллов 3% Сайт_23.04( 179)",
+                "offer": {
+                    "displayName": "Блуза из вискозы с принтом (50)",
+                    "id": 50593,
+                    "externalId": "2001662",
+                    "xmlId": "51049a98-0d79-11ed-9ddb-0050568e2ffe#d78c6cf5-3416-11ed-9ddb-0050568e2ffe",
+                    "name": "Блуза из вискозы с принтом",
+                    "article": "BL1088",
+                    "vatRate": "20.00",
+                    "properties": {
+                        "sale": "SALE",
+                        "size": "50",
+                        "gender": "female",
+                        "vendor": "LALIS",
+                        "name_1c": "Блузка женская BL1088 3Л3939 Молочно-зеленый",
+                        "oldprice": "5999",
+                        "colorsite": "Молочно-зеленый",
+                        "collection": "SKETCH IN BLOOM",
+                        "structuresite": "Вискоза - 86%, Лен - 14%",
+                        "collectionsite": "Lalis Лето 2023"
+                    },
+                    "unit": {
+                        "code": "pc",
+                        "name": "Штука",
+                        "sym": "шт."
+                    }
+                },
+                "properties": {
+                    "carrierStatusDate": {
+                        "code": "carrierStatusDate",
+                        "name": "Дата доставки",
+                        "value": "16.08.2023 16:5:23"
+                    },
+                    "sendDate": {
+                        "code": "sendDate",
+                        "name": "Дата отправки",
+                        "value": "22.06.2023 23:32:00"
+                    }
+                },
+                "purchasePrice": 0,
+                "ordering": 0
+            }
+        ],
+        "fullPaidAt": "2023-06-22 09:09:04",
+        "payments": {
+            "4617": {
+                "id": 4617,
+                "status": "paid",
+                "type": "pri-poluchenii",
+                "externalId": "132817",
+                "amount": 7158,
+                "paidAt": "2023-06-22 09:09:04"
+            }
+        },
+        "fromApi": true,
+        "weight": 300,
+        "length": 40,
+        "width": 30,
+        "height": 10,
+        "shipmentStore": "8511eaef-0f73-4ca9-afa7-1f67267aaa5f",
+        "shipped": false,
+        "customFields": {
+            "packing": "safe-package",
+            "pfs_tracking": "77000000008604",
+            "deliverymethod": "kurier",
+            "wroteoffbonuses": true,
+            "calculationofbonuses": 2340,
+            "writeoffbonusesamount": 0,
+            "wroteoffbonusesamount": 0,
+            "availablebonusesamount": 2340,
+            "order_validation_error": "\\/order\\/lines\\/discountedPriceOfLine: Линии с данной ценой не найдены",
+            "commit_order_transaction": false,
+            "pomeniat_status_bez_vygruzki_v_pfs": false
+        },
+        "currency": "RUB"
+    }
+}

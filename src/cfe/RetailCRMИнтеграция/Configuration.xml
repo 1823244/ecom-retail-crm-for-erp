@@ -208,6 +208,7 @@
 			<InformationRegister>ДополнительныеСведения</InformationRegister>
 			<InformationRegister>ЦеныНоменклатуры</InformationRegister>
 			<InformationRegister>СостоянияЗаказовКлиентов</InformationRegister>
+			<InformationRegister>crm_ИсходныеДанныеЗаказов</InformationRegister>
 			<AccumulationRegister>ТоварыКОтгрузке</AccumulationRegister>
 			<AccumulationRegister>ТоварыНаСкладах</AccumulationRegister>
 			<ChartOfCharacteristicTypes>ДополнительныеРеквизитыИСведения</ChartOfCharacteristicTypes>

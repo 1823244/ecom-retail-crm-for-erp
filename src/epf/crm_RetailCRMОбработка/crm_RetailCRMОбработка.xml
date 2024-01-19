@@ -4333,6 +4333,7 @@
 				</ChildObjects>
 			</TabularSection>
 			<Form>УправляемаяФорма</Form>
+			<Template>ЗаказВыполнен_4625S</Template>
 		</ChildObjects>
 	</ExternalDataProcessor>
 </MetaDataObject>
