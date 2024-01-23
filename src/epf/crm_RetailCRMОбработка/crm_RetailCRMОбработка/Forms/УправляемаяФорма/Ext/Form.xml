@@ -32,6 +32,14 @@
 		<Event name="OnCreateAtServer">ПриСозданииНаСервере</Event>
 	</Events>
 	<ChildItems>
+		<InputField name="НастройкиПодключенияКСП" id="1367">
+			<DataPath>НастройкиПодключенияКСП</DataPath>
+			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
+			<ChoiceFoldersAndItems>Folders</ChoiceFoldersAndItems>
+			<ChooseType>false</ChooseType>
+			<ContextMenu name="НастройкиПодключенияКСПКонтекстноеМеню" id="1368"/>
+			<ExtendedTooltip name="НастройкиПодключенияКСПРасширеннаяПодсказка" id="1369"/>
+		</InputField>
 		<PictureDecoration name="Декорация1" id="274">
 			<Width>24</Width>
 			<AutoMaxWidth>false</AutoMaxWidth>
@@ -5624,6 +5632,15 @@
 					<v8:AllowedLength>Variable</v8:AllowedLength>
 				</v8:StringQualifiers>
 			</Type>
+		</Attribute>
+		<Attribute name="НастройкиПодключенияКСП" id="25">
+			<Title>
+				<v8:item>
+					<v8:lang>ru</v8:lang>
+					<v8:content>Настройки подключения КСП</v8:content>
+				</v8:item>
+			</Title>
+			<Type/>
 		</Attribute>
 	</Attributes>
 	<Commands>
