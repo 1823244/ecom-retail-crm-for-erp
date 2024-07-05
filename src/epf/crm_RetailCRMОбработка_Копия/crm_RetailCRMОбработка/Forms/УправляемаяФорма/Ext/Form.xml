@@ -34,7 +34,6 @@
 	<ChildItems>
 		<InputField name="НастройкиПодключенияКСП" id="1367">
 			<DataPath>НастройкиПодключенияКСП</DataPath>
-			<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 			<ChoiceFoldersAndItems>Folders</ChoiceFoldersAndItems>
 			<ChooseType>false</ChooseType>
 			<ContextMenu name="НастройкиПодключенияКСПКонтекстноеМеню" id="1368"/>
@@ -442,199 +441,6 @@
 							<CommandName>Form.Command.ЗагрузитьБрони</CommandName>
 							<ExtendedTooltip name="ЗагрузитьБрониРасширеннаяПодсказка" id="1098"/>
 						</Button>
-					</ChildItems>
-				</Page>
-				<Page name="Константы" id="53">
-					<Title>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Константы</v8:content>
-						</v8:item>
-					</Title>
-					<ToolTip>
-						<v8:item>
-							<v8:lang>ru</v8:lang>
-							<v8:content>Константы</v8:content>
-						</v8:item>
-					</ToolTip>
-					<ExtendedTooltip name="КонстантыРасширеннаяПодсказка" id="54"/>
-					<ChildItems>
-						<Table name="ТабКонстанты" id="129">
-							<AutoInsertNewRow>true</AutoInsertNewRow>
-							<EnableStartDrag>true</EnableStartDrag>
-							<EnableDrag>true</EnableDrag>
-							<FileDragMode>AsFile</FileDragMode>
-							<DataPath>Объект.ТабКонстанты</DataPath>
-							<RowFilter xsi:nil="true"/>
-							<ContextMenu name="ТабКонстантыКонтекстноеМеню" id="130"/>
-							<AutoCommandBar name="ТабКонстантыКоманднаяПанель" id="131">
-								<Autofill>false</Autofill>
-							</AutoCommandBar>
-							<ExtendedTooltip name="ТабКонстантыРасширеннаяПодсказка" id="132"/>
-							<SearchStringAddition name="ТабКонстантыСтрокаПоиска" id="133">
-								<AdditionSource>
-									<Item>ТабКонстанты</Item>
-									<Type>SearchStringRepresentation</Type>
-								</AdditionSource>
-								<ContextMenu name="ТабКонстантыСтрокаПоискаКонтекстноеМеню" id="136"/>
-								<ExtendedTooltip name="ТабКонстантыСтрокаПоискаРасширеннаяПодсказка" id="137"/>
-							</SearchStringAddition>
-							<ViewStatusAddition name="ТабКонстантыСостояниеПросмотра" id="138">
-								<AdditionSource>
-									<Item>ТабКонстанты</Item>
-									<Type>ViewStatusRepresentation</Type>
-								</AdditionSource>
-								<ContextMenu name="ТабКонстантыСостояниеПросмотраКонтекстноеМеню" id="141"/>
-								<ExtendedTooltip name="ТабКонстантыСостояниеПросмотраРасширеннаяПодсказка" id="142"/>
-							</ViewStatusAddition>
-							<SearchControlAddition name="ТабКонстантыУправлениеПоиском" id="143">
-								<AdditionSource>
-									<Item>ТабКонстанты</Item>
-									<Type>SearchControl</Type>
-								</AdditionSource>
-								<ContextMenu name="ТабКонстантыУправлениеПоискомКонтекстноеМеню" id="146"/>
-								<ExtendedTooltip name="ТабКонстантыУправлениеПоискомРасширеннаяПодсказка" id="147"/>
-							</SearchControlAddition>
-							<ChildItems>
-								<LabelField name="ТабКонстантыНомерСтроки" id="148">
-									<Visible>false</Visible>
-									<EditMode>EnterOnInput</EditMode>
-									<ContextMenu name="ТабКонстантыНомерСтрокиКонтекстноеМеню" id="149"/>
-									<ExtendedTooltip name="ТабКонстантыНомерСтрокиРасширеннаяПодсказка" id="150"/>
-								</LabelField>
-								<InputField name="ТабКонстантыНазвание" id="151">
-									<DataPath>Объект.ТабКонстанты.Название</DataPath>
-									<EditMode>EnterOnInput</EditMode>
-									<ContextMenu name="ТабКонстантыНазваниеКонтекстноеМеню" id="152"/>
-									<ExtendedTooltip name="ТабКонстантыНазваниеРасширеннаяПодсказка" id="153"/>
-								</InputField>
-								<InputField name="ТабКонстантыЗначение" id="154">
-									<DataPath>Объект.ТабКонстанты.Значение</DataPath>
-									<EditMode>EnterOnInput</EditMode>
-									<ContextMenu name="ТабКонстантыЗначениеКонтекстноеМеню" id="155"/>
-									<ExtendedTooltip name="ТабКонстантыЗначениеРасширеннаяПодсказка" id="156"/>
-								</InputField>
-								<InputField name="ТабКонстантыТип" id="157">
-									<DataPath>Объект.ТабКонстанты.Тип</DataPath>
-									<EditMode>EnterOnInput</EditMode>
-									<ContextMenu name="ТабКонстантыТипКонтекстноеМеню" id="158"/>
-									<ExtendedTooltip name="ТабКонстантыТипРасширеннаяПодсказка" id="159"/>
-								</InputField>
-							</ChildItems>
-						</Table>
-						<UsualGroup name="КнопкиКонстант" id="82">
-							<Title>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Кнопки констант</v8:content>
-								</v8:item>
-							</Title>
-							<ToolTip>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Кнопки констант</v8:content>
-								</v8:item>
-							</ToolTip>
-							<Group>Horizontal</Group>
-							<Behavior>Usual</Behavior>
-							<Representation>None</Representation>
-							<ShowTitle>false</ShowTitle>
-							<ExtendedTooltip name="КнопкиКонстантРасширеннаяПодсказка" id="83"/>
-							<ChildItems>
-								<CheckBoxField name="ПодтверждениеСозданияКонстант" id="124">
-									<DataPath>ПодтверждениеСозданияКонстант</DataPath>
-									<CheckBoxType>Auto</CheckBoxType>
-									<ContextMenu name="ПодтверждениеСозданияКонстантКонтекстноеМеню" id="125"/>
-									<ExtendedTooltip name="ПодтверждениеСозданияКонстантРасширеннаяПодсказка" id="126"/>
-									<Events>
-										<Event name="OnChange">ПодтверждениеСозданияКонстантПриИзменении</Event>
-									</Events>
-								</CheckBoxField>
-								<Button name="СоздатьКонстанты" id="5">
-									<Type>UsualButton</Type>
-									<Representation>PictureAndText</Representation>
-									<Enabled>false</Enabled>
-									<CommandName>Form.Command.СоздатьКонстанты</CommandName>
-									<Picture>
-										<xr:Ref>StdPicture.DataCompositionNewTable</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
-									</Picture>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Создать константы</v8:content>
-										</v8:item>
-									</Title>
-									<ExtendedTooltip name="СоздатьКонстантыРасширеннаяПодсказка" id="6"/>
-								</Button>
-								<Button name="СохранитьКонстанты" id="41">
-									<Type>UsualButton</Type>
-									<Representation>PictureAndText</Representation>
-									<CommandName>Form.Command.СохранитьКонстанты</CommandName>
-									<Picture>
-										<xr:Ref>StdPicture.SaveFile</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
-									</Picture>
-									<Title>
-										<v8:item>
-											<v8:lang>ru</v8:lang>
-											<v8:content>Сохранить константы</v8:content>
-										</v8:item>
-									</Title>
-									<ExtendedTooltip name="СохранитьКонстантыРасширеннаяПодсказка" id="42"/>
-								</Button>
-							</ChildItems>
-						</UsualGroup>
-						<UsualGroup name="СохранениеНастроек" id="311">
-							<Title>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Сохранение настроек</v8:content>
-								</v8:item>
-							</Title>
-							<ToolTip>
-								<v8:item>
-									<v8:lang>ru</v8:lang>
-									<v8:content>Сохранение настроек</v8:content>
-								</v8:item>
-							</ToolTip>
-							<Group>Horizontal</Group>
-							<Behavior>Usual</Behavior>
-							<ShowTitle>false</ShowTitle>
-							<ExtendedTooltip name="СохранениеНастроекРасширеннаяПодсказка" id="312"/>
-							<ChildItems>
-								<Button name="СохранитьНастройкиВФайл" id="313">
-									<Type>UsualButton</Type>
-									<Representation>PictureAndText</Representation>
-									<CommandName>Form.Command.СохранитьНастройкиВФайл</CommandName>
-									<Picture>
-										<xr:Ref>StdPicture.SaveValues</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
-									</Picture>
-									<ExtendedTooltip name="СохранитьНастройкиВФайлРасширеннаяПодсказка" id="314"/>
-								</Button>
-								<Button name="ВосстановитьНастройкиИзФайла" id="315">
-									<Type>UsualButton</Type>
-									<Representation>PictureAndText</Representation>
-									<CommandName>Form.Command.ВосстановитьНастройкиИзФайла</CommandName>
-									<Picture>
-										<xr:Ref>StdPicture.RestoreValues</xr:Ref>
-										<xr:LoadTransparent>true</xr:LoadTransparent>
-									</Picture>
-									<ExtendedTooltip name="ВосстановитьНастройкиИзФайлаРасширеннаяПодсказка" id="316"/>
-								</Button>
-								<InputField name="ПутьКНастройкам" id="506">
-									<DataPath>Объект.ПутьКНастройкам</DataPath>
-									<ChoiceButton>true</ChoiceButton>
-									<ClearButton>true</ClearButton>
-									<ContextMenu name="ПутьКНастройкамКонтекстноеМеню" id="507"/>
-									<ExtendedTooltip name="ПутьКНастройкамРасширеннаяПодсказка" id="508"/>
-									<Events>
-										<Event name="StartChoice">ПутьКНастройкамНачалоВыбора</Event>
-									</Events>
-								</InputField>
-							</ChildItems>
-						</UsualGroup>
 					</ChildItems>
 				</Page>
 				<Page name="Статусы" id="182">
@@ -3724,6 +3530,8 @@
 					</ChildItems>
 				</Page>
 				<Page name="НастройкиОбмена" id="277">
+					<Visible>false</Visible>
+					<Enabled>false</Enabled>
 					<Title>
 						<v8:item>
 							<v8:lang>ru</v8:lang>
@@ -4333,7 +4141,6 @@
 						</Button>
 						<InputField name="ЗаказРезультат" id="1361">
 							<DataPath>ЗаказРезультат</DataPath>
-							<ExtendedEditMultipleValues>true</ExtendedEditMultipleValues>
 							<ContextMenu name="ЗаказРезультатКонтекстноеМеню" id="1362"/>
 							<ExtendedTooltip name="ЗаказРезультатРасширеннаяПодсказка" id="1363"/>
 						</InputField>
